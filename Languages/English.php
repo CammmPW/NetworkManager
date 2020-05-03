@@ -54,6 +54,10 @@ $lang['DASHBOARD_NEWESTPLAYERS'] = 'Newest Players';
 $lang['DASHBOARD_PLAYERSTATISTICS_TOOLTIP'] = 'Shows useful stats of the playercount from the last 60 days';
 $lang['DASHBOARD_NEWESTPLAYERS_TOOLTOP'] = 'Shows a map with the locations of players that have joined the last 60 days';
 
+$lang['DASHBOARD_PLAYERSTATISTICS_WEEK'] = 'Week';
+$lang['DASHBOARD_PLAYERSTATISTICS_MONTH'] = 'Month';
+$lang['DASHBOARD_PLAYERSTATISTICS_3MONTH'] = '3 Months';
+
 $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Average Stats';
 $lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Most Played Versions';
