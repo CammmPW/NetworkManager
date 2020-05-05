@@ -338,3 +338,5 @@ $lang['module_tabheader'] = 'Tab Header';
 $lang['module_tags'] = 'Tags';
 $lang['module_tickets'] = 'Tickets';
 $lang['module_tps'] = 'TPS';
+
+$lang['punishments_remind_warnings_on_join'] = 'Warning Reminder on Join';
