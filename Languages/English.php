@@ -141,7 +141,7 @@ $lang['TICKET_PRIORITY_MEDIUM'] = 'Medium';
 $lang['TICKET_PRIORITY_HIGH'] = 'High';
 $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'No Priority';
 
-$lang['SETTINGS_SEARCH'] = 'Search setting by variable';
+$lang['SETTINGS_SEARCH'] = 'Search plugin settings by variable';
 
 $lang['LANGUAGE_NAME'] = 'Name';
 
@@ -347,7 +347,7 @@ $lang['setting_antiad_party'] = 'Anti Ad Party';
 $lang['setting_antiad_whitelist'] = 'Anti Advertising Whitelist';
 $lang['setting_anticaps_party'] = 'Anti Caps Party';
 $lang['setting_anticaps_percent'] = 'Anti Caps Percentage';
-$lang['setting_anticpas_whitelist'] = 'Anti Caps Whitelist';
+$lang['setting_anticaps_whitelist'] = 'Anti Caps Whitelist';
 $lang['setting_antispam_cooldown'] = 'Anti Spam Cooldown';
 $lang['setting_antispam_party'] = 'Anti Spam Party';
 $lang['setting_antiswear_party'] = 'Anti Swear Party';
