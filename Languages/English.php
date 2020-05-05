@@ -341,7 +341,7 @@ $lang['module_tps'] = 'TPS';
 
 $lang['punishments_remind_warnings_on_join'] = 'Warning Reminder on Join';
 $lang['punishments_warning_expire_after'] = 'Warnings Expire After';
-$lang['settings_actionbar_announcements_interval'] = 'Actionbar Announcement Interval';
+$lang['setting_actionbar_announcements_interval'] = 'Actionbar Announcement Interval';
 $lang['setting_adminchat_shortcut'] = 'Admin Chat Shortcut';
 $lang['setting_antiad_party'] = 'Anti Ad Party';
 $lang['setting_antiad_whitelist'] = 'Anti Advertising Whitelist';
