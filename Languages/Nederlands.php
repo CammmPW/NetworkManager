@@ -65,7 +65,7 @@ $lang['DASHBOARD_NEWESTPLAYERS_TOOLTOP'] = 'Shows a map with the locations of pl
 
 $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Gemiddelde Stats';
-$lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Meest gespeelde versies';
+$lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Versie Populariteit';
 $lang['ANALYTICS_PLAYERREGIONS'] = "Speler Regio's";
 $lang['ANALYTICS_PLAYTIME'] = 'Speel tijd';
 $lang['ANALYTICS_USERRETENTION'] = 'Gebruikersbehoud';
@@ -73,6 +73,9 @@ $lang['ANALYTICS_USERRETENTION_ALL'] = 'Altijd';
 $lang['ANALYTICS_FUTUREPORJECTIONS'] = 'Future Projections';
 $lang['ANALYTICS_ANP'] = 'Gemiddelde Nieuwe Spelers';
 $lang['ANALYTICS_ARP'] = 'Gemiddelde Terugkomende Spelers';
+$lang['ANALYTICS_PERMONTH'] = 'Per Maand';
+$lang['ANALYTICS_PERWEEK'] = 'Per Week';
+$lang['ANALYTICS_PERDAY'] = 'Per Dag';
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
