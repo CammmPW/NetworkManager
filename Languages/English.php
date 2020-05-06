@@ -84,6 +84,7 @@ $lang['ANALYTICS_VHOST_POP'] = 'Virtual Host Popularity';
 $lang['ANALYTICS_PLAYTIME_WEEK'] = 'This Week';
 $lang['ANALYTICS_PLAYTIME_TODAY'] = 'Today';
 $lang['ANALYTICS_PLAYERS_FROM'] = 'Players From';
+$lang['ANALYTICS_RETURNING_PLAYERS'] = 'Returning Players';
 
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Player Information';

@@ -83,6 +83,8 @@ $lang['ANALYTICS_VHOSTS'] = 'Virtuele Hosts';
 $lang['ANALYTICS_VHOST_POP'] = 'Populariteit van virtuele host';
 $lang['ANALYTICS_PLAYTIME_WEEK'] = 'Deze week';
 $lang['ANALYTICS_PLAYTIME_TODAY'] = 'Vandaag';
+$lang['ANALYTICS_PLAYERS_FROM'] = 'Spelers Van';
+$lang['ANALYTICS_RETURNING_PLAYERS'] = 'Terugkomende Spelers'
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
