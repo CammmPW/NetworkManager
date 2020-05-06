@@ -67,7 +67,7 @@ $lang['DASHBOARD_PLAYERSTATISTICS_3MONTH'] = '3 Months';
 
 $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Average Stats';
-$lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Most Played Versions';
+$lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Version Popularity';
 $lang['ANALYTICS_PLAYERREGIONS'] = 'Player Regions';
 $lang['ANALYTICS_PLAYTIME'] = 'Playtime';
 $lang['ANALYTICS_USERRETENTION'] = 'User Retention';
@@ -75,6 +75,10 @@ $lang['ANALYTICS_USERRETENTION_ALL'] = 'All Time';
 $lang['ANALYTICS_FUTUREPORJECTIONS'] = 'Future Projections';
 $lang['ANALYTICS_ANP'] = 'Avg. New Players';
 $lang['ANALYTICS_ARP'] = 'Avg. Returning Players';
+$lang['ANALYTICS_PERMONTH'] = 'Per Month';
+$lang['ANALYTICS_PERWEEK'] = 'Per Week';
+$lang['ANALYTICS_PERDAY'] = 'Per Day';
+
 
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Player Information';
