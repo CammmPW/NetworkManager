@@ -58,8 +58,6 @@ $lang['DASHBOARD_PLAYERSTATISTICS3'] = 'Last 3 Months';
 $lang['DASHBOARD_PLAYERSTATISTICS3S'] = '3 Month';
 $lang['DASHBOARD_GEOSTATISTICS'] = 'Geographical Statistics';
 $lang['DASHBOARD_NEWESTPLAYERS'] = 'Newest Players';
-$lang['DASHBOARD_PLAYERSTATISTICS_TOOLTIP'] = 'Shows useful stats of the playercount from the last 60 days';
-$lang['DASHBOARD_NEWESTPLAYERS_TOOLTOP'] = 'Shows a map with the locations of players that have joined the last 60 days';
 
 $lang['DASHBOARD_PLAYERSTATISTICS_WEEK'] = 'Week';
 $lang['DASHBOARD_PLAYERSTATISTICS_MONTH'] = 'Month';
@@ -85,6 +83,7 @@ $lang['ANALYTICS_VHOSTS'] = 'Virtal Hosts';
 $lang['ANALYTICS_VHOST_POP'] = 'Virtual Host Popularity';
 $lang['ANALYTICS_PLAYTIME_WEEK'] = 'This Week';
 $lang['ANALYTICS_PLAYTIME_TODAY'] = 'Today';
+$lang['ANALYTICS_PLAYERS_FROM'] = 'Players From';
 
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Player Information';
@@ -415,3 +414,4 @@ $lang['setting_title_announcements_interval'] = 'Title Announcement Inverval';
 $lang['NEWPLAYERS_TOOLTIP'] = 'New Players';
 $lang['PLAYERPEAK_TOOLTIP'] = 'Player Peak';
 $lang['TOTALSESSIONS_TOOLTIP'] = 'Total Sessions';
+
