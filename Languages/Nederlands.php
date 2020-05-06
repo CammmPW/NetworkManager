@@ -388,4 +388,4 @@ $lang['setting_title_announcements_interval'] = 'Titel Aankondiging Vertraging';
 
 $lang['NEWPLAYERS_TOOLTIP'] = 'Nieuwe Spelers';
 $lang['PLAYERPEAK_TOOLTIP'] = 'Spelers Piek';
-$lang['TOTALSESSIONS_TOOLTIP'] = 'Totale Sessie\'s';
+$lang['TOTALSESSIONS_TOOLTIP'] = 'Totale Sessies';
