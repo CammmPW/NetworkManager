@@ -69,7 +69,7 @@ $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Average Stats';
 $lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Version Popularity';
 $lang['ANALYTICS_PLAYERREGIONS'] = 'Player Regions';
-$lang['ANALYTICS_PLAYTIME'] = 'Playtime';
+$lang['ANALYTICS_PLAYTIME'] = 'Playtime Statistics';
 $lang['ANALYTICS_USERRETENTION'] = 'User Retention';
 $lang['ANALYTICS_USERRETENTION_ALL'] = 'All Time';
 $lang['ANALYTICS_FUTUREPORJECTIONS'] = 'Future Projections';
@@ -82,7 +82,9 @@ $lang['ANALYTICS_VERSION'] = 'Version';
 $lang['ANALYTICS_PLAYERCOUNT'] = 'Player Count';
 $lang['ANALYTICS_POPULATION'] = 'Population';
 $lang['ANALYTICS_VHOSTS'] = 'Virtal Hosts';
-
+$lang['ANALYTICS_VHOST_POP'] = 'Virtual Host Popularity';
+$lang['ANALYTICS_PLAYTIME_WEEK'] = 'This Week';
+$lang['ANALYTICS_PLAYTIME_TODAY'] = 'Today';
 
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Player Information';
