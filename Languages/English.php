@@ -144,6 +144,9 @@ $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'No Priority';
 $lang['SETTINGS_SEARCH'] = 'Search plugin settings by variable';
 
 $lang['LANGUAGE_NAME'] = 'Name';
+$lang['LANGUAGE_EDIT'] = 'Editing Language';
+$lang['LANGUAGE_SEARCH'] = 'Search message by key';
+$lang['LANGUAGE_NEW'] = 'Create a new Language';
 
 $lang['MOTD_MOTDGENERATOR'] = 'MOTD Generator';
 $lang['MOTD_KICKMSG'] = 'Kick Message';
@@ -280,8 +283,6 @@ $lang['CHATLIST_CLEAR'] = 'Clear Chat';
 $lang['NAV_PLAYER_CONTROL'] = 'Player Control';
 $lang['NAV_NETWORK_CONTROL'] = 'Network Control';
 $lang['NAV_ADDONS'] = 'Addons';
-
-$lang['LANG_EDIT_LANG'] = 'Editing Language';
 
 $lang['default-language'] = 'Default Web Panel Language';
 $lang['date-format'] = 'Date Display Format';
