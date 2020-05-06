@@ -71,13 +71,8 @@ $lang['ANALYTICS_PLAYTIME'] = 'Speel tijd';
 $lang['ANALYTICS_USERRETENTION'] = 'User Retention';
 $lang['ANALYTICS_USERRETENTION_ALL'] = 'Altijd';
 $lang['ANALYTICS_FUTUREPORJECTIONS'] = 'Future Projections';
-$lang['ANALYTICS_ONLINE_TOOLTOP'] = 'Graph of the online players of all time';
-$lang['ANALYTICS_AVERAGESTATS_TOOLTOP'] = 'ANPPD(Average New Players Per Day) and ARPPD(Average Returning Player Per Day) show stats on monthly, weekly and daily basis';
-$lang['ANALYTICS_MOSTPLAYEDVERSIONS_TOOLTIP'] = 'Shows the most played Minecraft versions of your player shown as amount and percentage';
-$lang['ANALYTICS_PLAYERREGIONS_TOOLTIP'] = 'Shows where from which country your players come from in a bar-chart and a map';
-$lang['ANALYTICS_PLAYTIME_TOOLTIP'] = 'Shows the total amount of the playtime on your network today, this week and the total';
-$lang['ANALYTICS_USERRETENTION_TOOLTIP'] = 'What percentage of players returns after their first join. Shown in days';
-$lang['ANALYTICS_FUTUREPORJECTIONS_TOOLTIP'] = 'This algorithm will show you eventual future projections of new players and active players';
+$lang['ANALYTICS_ANP'] = 'Gemiddelde Nieuwe Spelers';
+$lang['ANALYTICS_ARP'] = 'Gemiddelde Terugkomende Spelers';
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
