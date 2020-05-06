@@ -61,7 +61,6 @@ $lang['DASHBOARD_PLAYERSTATISTICS3S'] = '3 Maanden';
 $lang['DASHBOARD_GEOSTATISTICS'] = 'Geografische Statistieken';
 $lang['DASHBOARD_NEWESTPLAYERS'] = 'Nieuwste Spelers';
 
-
 $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Gemiddelde Stats';
 $lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Versie Populariteit';
@@ -85,6 +84,9 @@ $lang['ANALYTICS_PLAYTIME_TODAY'] = 'Vandaag';
 $lang['ANALYTICS_PLAYERS_FROM'] = 'Spelers Van';
 $lang['ANALYTICS_RETURNING_PLAYERS'] = 'Terugkomende Spelers';
 $lang['ANALYTICS_ESTIMATED_TOTAL'] = 'Geschatte Totale Spelers';
+$lang['ANALYTICS_RETAINED_PLAYERS'] = 'Retained Players';
+$lang['ANALYTICS_COUNTRY_PLAYERS'] = 'Playerass';
+
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
