@@ -86,6 +86,8 @@ $lang['ANALYTICS_PLAYTIME_TODAY'] = 'Today';
 $lang['ANALYTICS_PLAYERS_FROM'] = 'Players From';
 $lang['ANALYTICS_RETURNING_PLAYERS'] = 'Returning Players';
 $lang['ANALYTICS_ESTIMATED_TOTAL'] = 'Estimated Total Players';
+$lang['ANALYTICS_RETAINED_PLAYERS'] = 'Retained Players';
+$lang['ANALYTICS_COUNTRY_PLAYERS'] = 'Players';
 
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Player Information';

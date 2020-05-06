@@ -60,8 +60,7 @@ $lang['DASHBOARD_PLAYERSTATISTICS3'] = 'Laatste 3 Maanden';
 $lang['DASHBOARD_PLAYERSTATISTICS3S'] = '3 Maanden';
 $lang['DASHBOARD_GEOSTATISTICS'] = 'Geografische Statistieken';
 $lang['DASHBOARD_NEWESTPLAYERS'] = 'Nieuwste Spelers';
-$lang['DASHBOARD_PLAYERSTATISTICS_TOOLTIP'] = 'Shows useful stats of the playercount from the last 60 days';
-$lang['DASHBOARD_NEWESTPLAYERS_TOOLTOP'] = 'Shows a map with the locations of players that have joined the last 60 days';
+
 
 $lang['ANALYTICS_ONLINE'] = 'Online';
 $lang['ANALYTICS_AVERAGESTATS'] = 'Gemiddelde Stats';
