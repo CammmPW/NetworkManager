@@ -50,6 +50,7 @@ $lang['DASHBOARD_TODAYONLINEPLAYERS'] = 'Today Online Players';
 $lang['DASHBOARD_TODAYSNEWPLAYERS'] = 'Todays New Players';
 $lang['DASHBOARD_TODAYSPLAYTIME'] = 'Todays Playtime';
 $lang['DASHBOARD_PLAYERSTATISTICS'] = 'Player Statistics';
+$lang['DASHBOARD_GEOSTATISTICS'] = 'Geographical Statistics';
 $lang['DASHBOARD_NEWESTPLAYERS'] = 'Newest Players';
 $lang['DASHBOARD_PLAYERSTATISTICS_TOOLTIP'] = 'Shows useful stats of the playercount from the last 60 days';
 $lang['DASHBOARD_NEWESTPLAYERS_TOOLTOP'] = 'Shows a map with the locations of players that have joined the last 60 days';
@@ -273,6 +274,10 @@ $lang['TEXT_NORESULTS'] = 'No results could be displayed';
 $lang['TEXT_NORESULTS_SEARCH'] = 'No results found for';
 $lang['TEXT_SELECTOPTION'] = ' -- select an option -- ';
 $lang['TEXT_NOTASKS'] = 'No tasks! Have a great day :)';
+
+// Webbie 3.0 Locales
+
+
 
 $lang['TEXT_NOPUNISHMENTS'] = 'No punishments found for this player.';
 $lang['TEXT_NOSESSIONS'] = 'No sessions found for this player.';
