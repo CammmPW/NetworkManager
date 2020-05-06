@@ -274,15 +274,14 @@ $lang['TEXT_NOTASKS'] = 'No tasks! Have a great day :)';
 $lang['TEXT_NOPUNISHMENTS'] = 'No punishments found for this player.';
 $lang['TEXT_NOSESSIONS'] = 'No sessions found for this player.';
 
+$lang['CHATLIST_REFRESH'] = 'Refresh';
+$lang['CHATLIST_CLEAR'] = 'Clear Chat';
 
 $lang['NAV_PLAYER_CONTROL'] = 'Player Control';
 $lang['NAV_NETWORK_CONTROL'] = 'Network Control';
 $lang['NAV_ADDONS'] = 'Addons';
 
-$lang['LANGUAGES_EDITING_LANGUAGE'] = 'Editing Language';
-
-$lang['CHATLIST_REFRESH'] = 'Refresh';
-$lang['CHATLIST_CLEAR'] = 'Clear Chat';
+$lang['LANG_EDIT_LANG'] = 'Editing Language';
 
 $lang['default-language'] = 'Default Web Panel Language';
 $lang['date-format'] = 'Date Display Format';
