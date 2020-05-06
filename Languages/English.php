@@ -81,6 +81,7 @@ $lang['ANALYTICS_PERDAY'] = 'Per Day';
 $lang['ANALYTICS_VERSION'] = 'Version';
 $lang['ANALYTICS_PLAYERCOUNT'] = 'Player Count';
 $lang['ANALYTICS_POPULATION'] = 'Population';
+$lang['ANALYTICS_VHOSTS'] = 'Virtal Hosts';
 
 
 

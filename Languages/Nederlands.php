@@ -79,6 +79,7 @@ $lang['ANALYTICS_PERDAY'] = 'Per Dag';
 $lang['ANALYTICS_VERSION'] = 'Versie';
 $lang['ANALYTICS_PLAYERCOUNT'] = 'Aantal spelers';
 $lang['ANALYTICS_POPULATION'] = 'Bevolking';
+$lang['ANALYTICS_VHOSTS'] = 'Virtuele Hosts';
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
