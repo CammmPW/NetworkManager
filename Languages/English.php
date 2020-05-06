@@ -3,7 +3,7 @@ $lang = array();
 
 $lang['LANGUAGE'] = 'English';
 $lang['THEME'] = 'Default';
-$lang['AUTHOR'] = 'ChimpGamer';
+$lang['AUTHOR'] = 'ChimpGamer & Cam';
 
 $lang['PANEL_TITLE'] = 'EN Backend';
 
