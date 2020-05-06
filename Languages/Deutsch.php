@@ -3,7 +3,7 @@ $lang = array();
 
 $lang['LANGUAGE'] = 'Deutsch';
 $lang['THEME'] = 'Default';
-$lang['AUTHOR'] = 'X0R3';
+$lang['AUTHOR'] = 'X0R3 + Daaniel';
 
 $lang['PANEL_TITLE'] = 'NetworkManager';
 
@@ -137,6 +137,9 @@ $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'Keine Priorität';
 $lang['SETTINGS_SEARCH'] = 'Suche Einstellung nach Variablen';
 
 $lang['LANGUAGE_NAME'] = 'Name';
+$lang['LANGUAGE_EDIT'] = 'Taal Bijwerken';
+$lang['LANGUAGE_SEARCH'] = 'Zoek bericht bij sleutel';
+$lang['LANGUAGE_NEW'] = 'Maak een nieuwe taal aan';
 
 $lang['MOTD_MOTDGENERATOR'] = 'MOTD Generator';
 $lang['MOTD_KICKMSG'] = 'Kick Nachricht';
@@ -259,3 +262,125 @@ $lang['TEXT_NORESULTS'] = 'Es wurden keine Ergebnisse gefunden, die angezeigt we
 $lang['TEXT_NORESULTS_SEARCH'] = 'Keine Ergebnisse gefunden für';
 $lang['TEXT_SELECTOPTION'] = ' -- Option wählen -- ';
 $lang['TEXT_NOTASKS'] = 'Keine Aufgaben! Schönen Tag noch ;)';
+
+$lang['NAV_PLAYER_CONTROL'] = 'Spelers Controle';
+$lang['NAV_NETWORK_CONTROL'] = 'Netwerk Controle';
+$lang['NAV_ADDONS'] = 'Addons';
+
+
+$lang['TEXT_NOPUNISHMENTS'] = 'Geen straffen gevonden voor deze speler.';
+$lang['TEXT_NOSESSIONS'] = 'Geen sessies gevonden voor deze speler.';
+
+$lang['CHATLIST_REFRESH'] = 'Verversen';
+$lang['CHATLIST_CLEAR'] = 'Chat leeg maken';
+
+$lang['default-language'] = 'Standaard Web Paneel Taal';
+$lang['date-format'] = 'Datum Opmaak Formaat';
+$lang['time-format'] = 'Tijd Opmaak Formaat';
+$lang['logo'] = 'Klein Logo Locatie';
+$lang['full-logo'] = 'Volledig Logo Locatie';
+$lang['login-background'] = 'Login Achterground Foto Locatie';
+$lang['login-video'] = 'Login Achterground Video Locatie';
+$lang['api_url'] = 'API Url';
+$lang['secret'] = 'Unieke Geheime GeoIP Sleutel';
+
+$lang['command_adminchat'] = 'Admin Chat';
+$lang['command_announcement'] = 'Aankondigingen';
+$lang['command_chatlock'] = 'Chat Slot';
+$lang['command_chatlog'] = 'Chatlog';
+$lang['command_clearchat'] = 'Chat Leeg Maken';
+$lang['command_commandspy'] = 'Commando Spion';
+$lang['command_find'] = 'Vind';
+$lang['command_glist'] = 'Globale Lijst (Glist)';
+$lang['command_gtps'] = 'Globale TPS (GTPS)';
+$lang['command_ignore'] = 'Negeren';
+$lang['command_language'] = 'Taal';
+$lang['command_lobbyserver'] = 'Lobbyserver';
+$lang['command_lobbyserver_server'] = 'Lobbyserver Server';
+$lang['command_lookup'] = 'Opzoeken';
+$lang['command_lockdown'] = 'Lockdown';
+$lang['command_maintenance'] = 'Onderhoud';
+$lang['command_msg'] = 'Bericht';
+$lang['command_nickname'] = 'Bijnaam';
+$lang['command_party'] = 'Feest';
+$lang['command_ping'] = 'Ping';
+$lang['command_playtime'] = 'Speel Tijd';
+$lang['command_reply'] = 'Andwoorden';
+$lang['command_seen'] = 'Gezien';
+$lang['command_socialspy'] = 'Sociale Spion';
+$lang['command_staffchat'] = 'Personeels Chat';
+$lang['command_warnings'] = 'Waarschuwingen';
+$lang['command_whereami'] = 'Waar Ben Ik?';
+
+
+$lang['module_announcements'] = 'Aankondigingen';
+$lang['module_antiad'] = 'Anti Reclame';
+$lang['module_anticaps'] = 'Anti Hooftletters';
+$lang['module_antispam'] = 'Anti Spam';
+$lang['module_commandfilter'] = 'Commando Filter';
+$lang['module_filter'] = 'Chat Filter';
+$lang['module_helpop'] = 'Help OP';
+$lang['module_maxplayers'] = 'Maximale Spelers';
+$lang['module_notifications'] = 'Berichten';
+$lang['module_party'] = 'Feesten';
+$lang['module_permissions_bungee'] = 'Bungeecord Permissie\'s';
+$lang['module_permissions_spigot'] = 'Spigot Permissie\'s';
+$lang['module_pre_punishments'] = 'Voor-Straffen';
+$lang['module_proxy_only'] = 'Alleen Proxy';
+$lang['module_punishments'] = 'Straffen';
+$lang['module_reports'] = 'Rapporten';
+$lang['module_servermanager'] = 'Server Beheerder';
+$lang['module_slashserver'] = '/Server';
+$lang['module_tabheader'] = 'Tab Header';
+$lang['module_tags'] = 'Labels';
+$lang['module_tickets'] = 'Tickets';
+$lang['module_tps'] = 'TPS';
+
+$lang['punishments_remind_warnings_on_join'] = 'Waarschuwingsherinnering bij deelname';
+$lang['punishments_warning_expire_after'] = 'Waarschuwingen verlopen na';
+$lang['setting_actionbar_announcements_interval'] = 'Actie bar Aankondigingen Vertraging';
+$lang['setting_adminchat_shortcut'] = 'Admin Chat Snelkoppeling';
+$lang['setting_antiad_party'] = 'Anti Reclame Feest';
+$lang['setting_antiad_whitelist'] = 'Anti Reclame Witte Lijst';
+$lang['setting_anticaps_party'] = 'Anti Hooftletters Feest';
+$lang['setting_anticaps_percent'] = 'Anti Hooftletters Percentage';
+$lang['setting_anticaps_whitelist'] = 'Anti Hooftletters Witte Lijst';
+$lang['setting_antispam_cooldown'] = 'Anti Spam Vertraging';
+$lang['setting_antispam_party'] = 'Anti Spam Feest';
+$lang['setting_antiswear_party'] = 'Anti Vloeken Feest';
+$lang['setting_antiswear_warn_if_replace'] = 'Waarschuwen bij vloeken';
+$lang['setting_chatlog_cooldown'] = 'Chatlog Vertraging';
+$lang['setting_chat_announcemens_interval'] = 'Chat Aankondigingen Vertraging';
+$lang['setting_commandspy_ignore'] = 'Commando Spion Witte Lijst';
+$lang['setting_default_replacement'] = 'Stanaard Vervanging';
+$lang['setting_geoip_api_accesskey'] = 'GeoIP API Toegangs Sleutel';
+$lang['setting_helpop_cooldown'] = 'HelpOP Vertraging';
+$lang['setting_language_default'] = 'Standaard Taal';
+$lang['setting_maxplayers_amount'] = 'Max Spelers Aantal';
+$lang['setting_maxplayers_onemore_player'] = 'Een Meer Max Speler';
+$lang['setting_namecolors'] = 'Naam kleuren';
+$lang['setting_nickname_maxlength'] = 'Bijnaam Maximale Grote';
+$lang['setting_nickname_use_filter'] = 'Gebruik Bijnaam Filter';
+$lang['setting_notify_banned_player_join'] = 'Verbannen Speler Berichten';
+$lang['setting_party_maxsize'] = 'Maximale Feest Grote';
+$lang['setting_proxy_only_allowed_ips'] = 'Alleen proxy toegestane IP-adressen';
+$lang['setting_punishments_ipban_ban_ip_only'] = 'Alleen IP Verbannen';
+$lang['setting_punishments_mute_command_blacklist'] = 'Demp Commando Zwarte Lijst';
+$lang['setting_punishments_require_reason'] = 'Straf Vereist Een Reden';
+$lang['setting_reports_cooldown'] = 'Rapporten Vertraging';
+$lang['setting_servermanager_fallbackgroup'] = 'Server Beheerder Terugval Groep';
+$lang['setting_servermanager_force_logingroup'] = 'Login Groep Dwingen';
+$lang['setting_servermanager_kickmove'] = 'Verplaats bij Schop';
+$lang['setting_servermanager_logingroup'] = 'Server Beheerder Login Groep';
+$lang['setting_servermanager_status_check_interval'] = 'Server Beheerder Statistieken Controle Vertraging';
+$lang['setting_servermode'] = 'Server Modus';
+$lang['setting_server_kickmessage'] = 'Schop Bericht';
+$lang['setting_server_kickreason_exceptions'] = 'Schop Reden Uitzonderingen';
+$lang['setting_show_reports_onlogin'] = 'Rapporten bij Toetreden';
+$lang['setting_staffchat_shortcut'] = 'Personeels Chat Snelkoppeling';
+$lang['setting_tabheader_refresh'] = 'Tab Header Vervanging Snelheid';
+$lang['setting_ticket_answer_cooldown'] = 'Ticket Andwoord Vertraging';
+$lang['setting_ticket_create_cooldown'] = 'Ticket Aanmaak Vertraging';
+$lang['setting_ticket_reset_password_cooldown'] = 'Ticket Systeem Wachtwoord Reset Vertraging';
+$lang['setting_title_announcements_interval'] = 'Titel Aankondiging Vertraging';
+?>
