@@ -385,3 +385,7 @@ $lang['setting_ticket_answer_cooldown'] = 'Ticket Andwoord Vertraging';
 $lang['setting_ticket_create_cooldown'] = 'Ticket Aanmaak Vertraging';
 $lang['setting_ticket_reset_password_cooldown'] = 'Ticket Systeem Wachtwoord Reset Vertraging';
 $lang['setting_title_announcements_interval'] = 'Titel Aankondiging Vertraging';
+
+$lang['NEWPLAYERS_TOOLTIP'] = 'Nieuwe Spelers';
+$lang['PLAYERPEAK_TOOLTIP'] = 'Spelers Piek';
+$lang['TOTALSESSIONS_TOOLTIP'] = 'Totale Sessie\'s';

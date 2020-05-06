@@ -398,3 +398,7 @@ $lang['setting_ticket_answer_cooldown'] = 'Ticket Response Cooldown';
 $lang['setting_ticket_create_cooldown'] = 'Ticket Creation Cooldown';
 $lang['setting_ticket_reset_password_cooldown'] = 'Ticket System Password Reset Cooldown';
 $lang['setting_title_announcements_interval'] = 'Title Announcement Inverval';
+
+$lang['NEWPLAYERS_TOOLTIP'] = 'New Players';
+$lang['PLAYERPEAK_TOOLTIP'] = 'Player Peak';
+$lang['TOTALSESSIONS_TOOLTIP'] = 'Total Sessions';
