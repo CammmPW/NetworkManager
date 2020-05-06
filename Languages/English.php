@@ -78,6 +78,9 @@ $lang['ANALYTICS_ARP'] = 'Avg. Returning Players';
 $lang['ANALYTICS_PERMONTH'] = 'Per Month';
 $lang['ANALYTICS_PERWEEK'] = 'Per Week';
 $lang['ANALYTICS_PERDAY'] = 'Per Day';
+$lang['ANALYTICS_VERSION'] = 'Version';
+$lang['ANALYTICS_PLAYERCOUNT'] = 'Player Count';
+$lang['ANALYTICS_POPULATION'] = 'Population';
 
 
 

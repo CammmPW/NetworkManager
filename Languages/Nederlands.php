@@ -76,6 +76,9 @@ $lang['ANALYTICS_ARP'] = 'Gemiddelde Terugkomende Spelers';
 $lang['ANALYTICS_PERMONTH'] = 'Per Maand';
 $lang['ANALYTICS_PERWEEK'] = 'Per Week';
 $lang['ANALYTICS_PERDAY'] = 'Per Dag';
+$lang['ANALYTICS_VERSION'] = 'Versie';
+$lang['ANALYTICS_PLAYERCOUNT'] = 'Aantal spelers';
+$lang['ANALYTICS_POPULATION'] = 'Bevolking';
 
 $lang['PLAYER_PLAYERINFORMATION'] = 'Speler Informatie';
 $lang['PLAYER_PLAYERSTATISTICS'] = 'Speler Statistieken';
