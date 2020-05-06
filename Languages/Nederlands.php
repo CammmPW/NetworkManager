@@ -69,6 +69,7 @@ $lang['ANALYTICS_MOSTPLAYEDVERSIONS'] = 'Meest gespeelde versies';
 $lang['ANALYTICS_PLAYERREGIONS'] = "Speler Regio's";
 $lang['ANALYTICS_PLAYTIME'] = 'Speel tijd';
 $lang['ANALYTICS_USERRETENTION'] = 'User Retention';
+$lang['ANALYTICS_USERRETENTION_ALL'] = 'Altijd';
 $lang['ANALYTICS_FUTUREPORJECTIONS'] = 'Future Projections';
 $lang['ANALYTICS_ONLINE_TOOLTOP'] = 'Graph of the online players of all time';
 $lang['ANALYTICS_AVERAGESTATS_TOOLTOP'] = 'ANPPD(Average New Players Per Day) and ARPPD(Average Returning Player Per Day) show stats on monthly, weekly and daily basis';
