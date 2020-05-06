@@ -23,6 +23,7 @@ $lang['TITLE_SETTINGS'] = 'Instellingen';
 $lang['TITLE_LANGUAGES'] = 'Talen';
 $lang['TITLE_MOTD'] = 'MOTD';
 $lang['TITLE_PERMISSIONS'] = 'Machtigingen';
+$lang['TITLE_PREPUNISHMENTS'] = 'Straffen Sjablonen';
 $lang['TITLE_SERVERS'] = 'Servers';
 $lang['TITLE_TAGS'] = 'Labels';
 $lang['TITLE_FILTER'] = 'Filter';
