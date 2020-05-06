@@ -8,12 +8,12 @@ $lang['THEME'] = 'Default';
 
 $lang['PANEL_TITLE'] = 'NetworkManager';
 
-$lang['TITLE_OVERVIEW'] = 'Overview';
-$lang['TITLE_ANALYTICS'] = 'Analytics';
+$lang['TITLE_OVERVIEW'] = 'Overzicht';
+$lang['TITLE_ANALYTICS'] = 'Statistieken';
 
 $lang['TITLE_PLAYERS'] = 'Spelers';
 $lang['TITLE_PUNISHMENTS'] = 'Straffen';
-$lang['TITLE_REPORTS'] = 'Reports';
+$lang['TITLE_REPORTS'] = 'Rapporten';
 $lang['TITLE_CHAT'] = 'Chat';
 $lang['TITLE_CHATLOGS'] = 'ChatLogs';
 $lang['TITLE_HELPOP'] = 'Helpop';
@@ -26,14 +26,14 @@ $lang['TITLE_PERMISSIONS'] = 'Machtigingen';
 $lang['TITLE_SERVERS'] = 'Servers';
 $lang['TITLE_TAGS'] = 'Labels';
 $lang['TITLE_FILTER'] = 'Filter';
-$lang['TITLE_COMMANDBLOCKER'] = 'CommandBlocker';
-$lang['TITLE_ANNOUNCEMENTS'] = 'Mededelingen';
-$lang['TITLE_TABCOMPLETECOMMANDS'] = 'TabCompleteCommands';
+$lang['TITLE_COMMANDBLOCKER'] = 'Commando\'s Tegenhouden';
+$lang['TITLE_ANNOUNCEMENTS'] = 'Aankondegingen';
+$lang['TITLE_TABCOMPLETECOMMANDS'] = 'TabCompleetCommando\'s';
 
 $lang['TITLE_GROUPSANDACCOUNTS'] = 'Groepen & Accounts';
 
 $lang['TITLE_TASKS'] = 'Taken';
-$lang['TITLE_ACCOUNTSETTINGS'] = 'Account Instellingen';
+$lang['TITLE_ACCOUNTSETTINGS'] = 'Settings';
 $lang['TITLE_LOGOUT'] = 'Log Uit';
 
 $lang['TITLE_DASHBOARD'] = 'Dashboard';
