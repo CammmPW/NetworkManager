@@ -109,7 +109,7 @@ $lang['PLAYER_PLAYTIME'] = 'Playtime';
 $lang['PLAYER_AVERAGEPLAYTIME'] = 'Average Playtime';
 $lang['PLAYER_JOINSAT'] = 'Player normally joins at';
 $lang['PLAYER_ALTACCOUNTS'] = 'Additional Accounts';
-$lang['PLAYER_SEARCH'] = 'Search player by name, UUID or IP address';
+$lang['PLAYER_SEARCH'] = 'Search player by name, nickname, UUID or IP address';
 $lang['PLAYER_PREMIUM'] = 'Premium';
 
 $lang['PLAYER_PROFILE'] = 'Player Profile';

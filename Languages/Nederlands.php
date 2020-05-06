@@ -107,7 +107,10 @@ $lang['PLAYER_PLAYTIME'] = 'Speel tijd';
 $lang['PLAYER_AVERAGEPLAYTIME'] = 'Gemiddelde Speeltijd';
 $lang['PLAYER_JOINSAT'] = 'Speler betreed normaal om';
 $lang['PLAYER_ALTACCOUNTS'] = 'Extra Accounts';
-$lang['PLAYER_SEARCH'] = 'Zoek spelers d.m.v naam, UUID, of Ip adres';
+$lang['PLAYER_SEARCH'] = 'Zoek spelers d.m.v naam, bijnaam, UUID, of Ip adres';
+
+$lang['PLAYER_PROFILE'] = 'Spelersprofiel';
+$lang['PLAYER_REAL_ID'] = 'Echte identiteit';
 
 $lang['PUNISHMENTS_PUNISHMENT'] = 'Straf';
 $lang['PUNISHMENTS_TYPE'] = 'Type';
@@ -405,3 +408,7 @@ $lang['setting_title_announcements_interval'] = 'Titel Aankondiging Vertraging';
 $lang['NEWPLAYERS_TOOLTIP'] = 'Nieuwe Spelers';
 $lang['PLAYERPEAK_TOOLTIP'] = 'Spelers Piek';
 $lang['TOTALSESSIONS_TOOLTIP'] = 'Totale Sessies';
+
+$lang['VAR_PAGINATION_1'] = 'Toont';
+$lang['VAR_PAGINATION_2'] = 'aan';
+$lang['VAR_PAGINATION_3'] = 'van';
