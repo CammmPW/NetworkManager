@@ -112,6 +112,9 @@ $lang['PLAYER_ALTACCOUNTS'] = 'Additional Accounts';
 $lang['PLAYER_SEARCH'] = 'Search player by name, UUID or IP address';
 $lang['PLAYER_PREMIUM'] = 'Premium';
 
+$lang['PLAYER_PROFILE'] = 'Player Profile';
+$lang['PLAYER_REAL_ID'] = 'Real Identity';
+
 $lang['PUNISHMENTS_PUNISHMENT'] = 'Punishment';
 $lang['PUNISHMENTS_ID'] = 'ID';
 $lang['PUNISHMENTS_TYPE'] = 'Type';
@@ -419,3 +422,6 @@ $lang['NEWPLAYERS_TOOLTIP'] = 'New Players';
 $lang['PLAYERPEAK_TOOLTIP'] = 'Player Peak';
 $lang['TOTALSESSIONS_TOOLTIP'] = 'Total Sessions';
 
+$lang['VAR_PAGINATION_1'] = 'Showing';
+$lang['VAR_PAGINATION_2'] = 'to';
+$lang['VAR_PAGINATION_3'] = 'of';
