@@ -419,4 +419,6 @@ $lang['VAR_STATUS'] = 'Status';
 $lang['VAR_EXPIRED'] = 'Verlopen';
 
 $lang['ERROR_NOTIF_PREFIX'] = 'Fout!';
-$lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Fout! Je kunt jezelf niet straffen!';
+$lang['SUCCESS_NOTIF_PREFIX'] = 'Gelukt!';
+$lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Je kunt jezelf niet straffen!';
+$lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Straf Toegevoegd!';
