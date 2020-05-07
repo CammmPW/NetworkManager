@@ -412,3 +412,6 @@ $lang['TOTALSESSIONS_TOOLTIP'] = 'Totale Sessies';
 $lang['VAR_PAGINATION_1'] = 'Toont';
 $lang['VAR_PAGINATION_2'] = 'aan';
 $lang['VAR_PAGINATION_3'] = 'van';
+
+$lang['VAR_STATUS_ONLINE'] = 'Online';
+$lang['VAR_STATUS_OFFLINE'] = 'Offline';

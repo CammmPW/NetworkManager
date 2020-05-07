@@ -425,3 +425,6 @@ $lang['TOTALSESSIONS_TOOLTIP'] = 'Total Sessions';
 $lang['VAR_PAGINATION_1'] = 'Showing';
 $lang['VAR_PAGINATION_2'] = 'to';
 $lang['VAR_PAGINATION_3'] = 'of';
+
+$lang['VAR_STATUS_ONLINE'] = 'Online';
+$lang['VAR_STATUS_OFFLINE'] = 'Offline';
