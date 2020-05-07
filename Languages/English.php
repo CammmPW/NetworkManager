@@ -435,6 +435,6 @@ $lang['VAR_EXPIRED'] = 'Expired';
 $lang['ERROR_NOTIF_PREFIX'] = 'Error!';
 $lang['SUCCESS_NOTIF_PREFIX'] = 'Success!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'You can\'t punish yourself!';
-$lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Punishment Added!'
+$lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Punishment Added!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
