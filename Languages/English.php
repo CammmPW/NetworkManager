@@ -165,6 +165,13 @@ $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'No Priority';
 $lang['TICKET_ASKEDON'] = 'Asked on';
 $lang['TICKET_REPLIEDON'] = 'Replied on';
 
+$lang['SETTINGS_WEBBIETAB'] = 'Web Interface';
+$lang['SETTINGS_PLUGGIETAB'] = 'Plugin Settings';
+$lang['SETTINGS_PLUGGIETAB_1'] = 'Commands';
+$lang['SETTINGS_PLUGGIETAB_2'] = 'Modules';
+$lang['SETTINGS_PLUGGIETAB_3'] = 'Settings'
+$lang['SETTINGS_PLUGGIETAB_4'] = 'Search';
+
 $lang['SETTINGS_SEARCH'] = 'Search plugin settings by variable';
 
 $lang['LANGUAGE_NAME'] = 'Name';

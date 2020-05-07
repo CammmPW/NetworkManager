@@ -163,6 +163,13 @@ $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'Geen Prioriteit';
 $lang['TICKET_ASKEDON'] = 'Gevraagd';
 $lang['TICKET_REPLIEDON'] = 'Beantwoord op';
 
+$lang['SETTINGS_WEBBIETAB'] = 'Webinterface';
+$lang['SETTINGS_PLUGGIETAB'] = 'Plugin-instellingen';
+$lang['SETTINGS_PLUGGIETAB_1'] = 'Commando\'s';
+$lang['SETTINGS_PLUGGIETAB_2'] = 'Modules';
+$lang['SETTINGS_PLUGGIETAB_3'] = 'Instellingen'
+$lang['SETTINGS_PLUGGIETAB_4'] = 'Zoeken';
+
 $lang['SETTINGS_SEARCH'] = 'Zoek instellingen d.m.v. variable';
 
 $lang['LANGUAGE_NAME'] = 'Naam';
