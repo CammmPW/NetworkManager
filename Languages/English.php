@@ -301,6 +301,7 @@ $lang['VAR_IP'] = 'IP';
 $lang['VAR_DURATION'] = 'Duration';
 $lang['VAR_ISSUED'] = 'Issued';
 $lang['VAR_CONFIRM'] = 'Confirm';
+$lang['VAR_RELOAD'] = 'Reload!';
 
 $lang['TEXT_NORESULTS'] = 'No results could be displayed';
 $lang['TEXT_NORESULTS_SEARCH'] = 'No results found for';
@@ -449,6 +450,9 @@ $lang['SUCCESS_NOTIF_PREFIX'] = 'Success!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'You can\'t punish yourself!';
 $lang['ERROR_NOTIF_PUNISHMENT_2'] = 'Unknown UUID!';
 $lang['ERROR_NOTIF_TICKET_1'] = 'You need to type a message to reply!';
+$lang['ERROR_NOTIF_SETTINGS_1'] = 'Could not write to the settings file!';
+$lang['ERROR_NOTIF_SETTINGS_2'] = 'Could not write to the language folder!';
+$lang['ERROR_NOTIF_SETTINGS_3'] = 'Could not download requested language file!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Punishment Added!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Punishment Revoked!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Punishment Removed!';
@@ -460,10 +464,13 @@ $lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets Refreshed!';
 $lang['SUCCESS_NOTIF_TICKET_1'] = 'Ticket assigned to';
 $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticket priority set to';
 $lang['SUCCESS_NOTIF_TICKET_3'] = 'has been closed!';
+$lang['SUCCESS_NOTIF_SETTINGS_1'] = 'Restart the proxy for all changes to take effect!';
+$lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
 
+$lang['SWAL_SUCCESS'] = 'Success!';
 $lang['SWAL_AREYOUSURE'] = 'Are You Sure?';
 $lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'It will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_CHANGES'] = 'These changes will be lost forever (A long time!)';

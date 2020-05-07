@@ -293,6 +293,7 @@ $lang['VAR_NEVER'] = 'Nooit';
 $lang['VAR_IP'] = 'IP';
 $lang['VAR_ISSUED'] = 'Uitgegeven';
 $lang['VAR_CONFIRM'] = 'Bevestigen';
+$lang['VAR_RELOAD'] = 'Herladen!';
 
 $lang['TEXT_NORESULTS'] = 'Er kunnen geen resultaten worden weergegeven';
 $lang['TEXT_NORESULTS_SEARCH'] = 'Geen resultaten gevonden voor';
@@ -438,6 +439,9 @@ $lang['SUCCESS_NOTIF_PREFIX'] = 'Gelukt!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Je kunt jezelf niet straffen!';
 $lang['ERROR_NOTIF_PUNISHMENT_2'] = 'Onbekende UUID!';
 $lang['ERROR_NOTIF_TICKET_1'] = 'Je moet een bericht typen om te antwoorden!';
+$lang['ERROR_NOTIF_SETTINGS_1'] = 'Could not write to the settings file!';
+$lang['ERROR_NOTIF_SETTINGS_2'] = 'Could not write to the language folder!';
+$lang['ERROR_NOTIF_SETTINGS_3'] = 'Could not download requested language file!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Straf Toegevoegd!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Straf Ingetrokken!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Straf verwijderd!';
@@ -449,9 +453,12 @@ $lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets vernieuwd!';
 $lang['SUCCESS_NOTIF_TICKET_1'] = 'Ticket toegewezen aan';
 $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticketprioriteit ingesteld op';
 $lang['SUCCESS_NOTIF_TICKET_3'] = 'is gesloten!';
+$lang['SUCCESS_NOTIF_SETTINGS_1']  'Start de proxy opnieuw om alle wijzigingen door te voeren!';
+$lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
+$lang['SWAL_SUCCESS'] = 'Succes!';
 $lang['SWAL_AREYOUSURE'] = 'Weet Je Het Zeker?';
 $lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'Het zal voor altijd verloren gaan (Een lange tijd!)';
 $lang['SWAL_LOSTFOREVER_CHANGES'] = 'Deze wijzigingen gaan voor altijd verloren (lang!)';
