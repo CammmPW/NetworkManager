@@ -453,6 +453,6 @@ $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the net
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';
-$lang['CHAT_TYPE_3'] = 'Party Chat'
+$lang['CHAT_TYPE_3'] = 'Party Chat';
 $lang['CHAT_TYPE_4'] = 'Staff Chat';
 $lang['CHAT_TYPE_5'] = 'Admin Chat';

@@ -442,6 +442,6 @@ $lang['SWAL_LOOSEONNET'] = 'Weet je zeker dat je deze speler weer wilt toelaten 
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Privé Bericht';
-$lang['CHAT_TYPE_3'] = 'Party Chat'
+$lang['CHAT_TYPE_3'] = 'Party Chat';
 $lang['CHAT_TYPE_4'] = 'Staff Chat';
 $lang['CHAT_TYPE_5'] = 'Admin Chat';
