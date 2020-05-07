@@ -430,6 +430,7 @@ $lang['ERROR_NOTIF_PREFIX'] = 'Fout!';
 $lang['SUCCESS_NOTIF_PREFIX'] = 'Gelukt!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Je kunt jezelf niet straffen!';
 $lang['ERROR_NOTIF_PUNISHMENT_2'] = 'Onbekende UUID!';
+$lang['ERROR_NOTIF_TICKET_1'] = 'Je moet een bericht typen om te antwoorden!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Straf Toegevoegd!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Straf Ingetrokken!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Straf verwijderd!';
@@ -438,6 +439,9 @@ $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chatlijst leeggemaakt!';
 $lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog verwijderd!';
 $lang['SUCCESS_NOTIF_HELPOP_1'] = 'Hulpverzoek verwijderd!';
 $lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets vernieuwd!';
+$lang['SUCCESS_NOTIF_TICKET_1'] = 'Ticket toegewezen aan';
+$lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticketprioriteit ingesteld op';
+$lang['SUCCESS_NOTIF_TICKET_3'] = 'is gesloten!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
