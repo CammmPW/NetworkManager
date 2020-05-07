@@ -436,5 +436,10 @@ $lang['ERROR_NOTIF_PREFIX'] = 'Error!';
 $lang['SUCCESS_NOTIF_PREFIX'] = 'Success!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'You can\'t punish yourself!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Punishment Added!';
+$lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Punishment Revoked!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
+
+$lang['SWAL_AREYOUSURE'] = 'Are You Sure?';
+$lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'It will be lost forever (A long time!)';
+$lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
