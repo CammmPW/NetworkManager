@@ -431,4 +431,5 @@ $lang['VAR_STATUS_OFFLINE'] = 'Offline';
 $lang['VAR_STATUS'] = 'Status';
 $lang['VAR_EXPIRED'] = 'Expired';
 
+$lang['ERROR_NOTIF_PREFIX'] = 'Error!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Error! You can\'t punish yourself!';
