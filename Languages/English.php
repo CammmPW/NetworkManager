@@ -147,6 +147,7 @@ $lang['CHATLOG_SEARCH'] = 'Search chatlog by creator, uuid or tracked';
 
 $lang['HELPOP_REQUESTER'] = 'Requester';
 $lang['HELPOP_SEARCH'] = 'Search helpop requests by requester, server or message';
+$lang['HELPOP_CLOSE'] = 'Close Help Request';
 
 $lang['TICKET_TICKET'] = 'Ticket';
 $lang['TICKET_TITLE'] = 'Title';
@@ -443,7 +444,7 @@ $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Punishment Revoked!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Punishment Removed!';
 $lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat List Reloaded!';
 $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chat List Emptied!';
-$lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chat List Reloaded!';
+$lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog Deleted!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
 

@@ -145,6 +145,7 @@ $lang['CHATLOG_SEARCH'] = 'Zoek chatlog d.m.v. creator, UUID of tracked';
 
 $lang['HELPOP_REQUESTER'] = 'Aanvrager';
 $lang['HELPOP_SEARCH'] = 'Zoek helpop aanvragen d.m.v. requestor, server of bericht';
+$lang['HELPOP_CLOSE'] = 'Sluit Help Verzoek';
 
 $lang['TICKET_TICKET'] = 'Ticket';
 $lang['TICKET_TITLE'] = 'Titel';
