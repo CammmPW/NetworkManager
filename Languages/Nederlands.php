@@ -415,3 +415,6 @@ $lang['VAR_PAGINATION_3'] = 'van';
 
 $lang['VAR_STATUS_ONLINE'] = 'Online';
 $lang['VAR_STATUS_OFFLINE'] = 'Offline';
+$lang['VAR_STATUS'] = 'Status';
+$lang['VAR_ACTIVE'] = 'Actief';
+$lang['VAR_EXPIRED'] = 'Verlopen';
