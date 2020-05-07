@@ -428,6 +428,7 @@ $lang['SUCCESS_NOTIF_PREFIX'] = 'Gelukt!';
 $lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Je kunt jezelf niet straffen!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Straf Toegevoegd!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Straf Ingetrokken!';
+$lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Straf verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
