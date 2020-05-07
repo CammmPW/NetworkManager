@@ -179,6 +179,9 @@ $lang['LANGUAGE_EDIT'] = 'Editing Language';
 $lang['LANGUAGE_SEARCH'] = 'Search message by key';
 $lang['LANGUAGE_NEW'] = 'Create a new Language';
 
+
+$lang['MOTD_TAB_1'] = 'Operational';
+$lang['MOTD_TAB_2'] = 'Maintenance';
 $lang['MOTD_MOTDGENERATOR'] = 'MOTD Generator';
 $lang['MOTD_KICKMSG'] = 'Kick Message';
 $lang['MOTD_PREVIEW'] = 'Preview';

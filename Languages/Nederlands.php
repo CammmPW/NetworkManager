@@ -177,6 +177,8 @@ $lang['LANGUAGE_EDIT'] = 'Taal Bijwerken';
 $lang['LANGUAGE_SEARCH'] = 'Zoek bericht bij sleutel';
 $lang['LANGUAGE_NEW'] = 'Maak een nieuwe taal aan';
 
+$lang['MOTD_TAB_1'] = 'Operationeel';
+$lang['MOTD_TAB_2'] = 'Onderhoud';
 $lang['MOTD_MOTDGENERATOR'] = 'MOTD Generator';
 $lang['MOTD_KICKMSG'] = 'Kick Bericht';
 $lang['MOTD_PREVIEW'] = 'Voorbeeld';
@@ -456,7 +458,7 @@ $lang['SUCCESS_NOTIF_TICKET_3'] = 'is gesloten!';
 $lang['SUCCESS_NOTIF_SETTINGS_1'] = 'Start de proxy opnieuw om alle wijzigingen door te voeren!';
 $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 $lang['SUCCESS_NOTIF_LANG_1'] = 'Taalsleutel';
-$lang['SUCCESS_NOTIF_LANG_2'] = 'is geupdate!';
+$lang['SUCCESS_NOTIF_LANG_2'] = 'is geüpdatet!';
 $lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
