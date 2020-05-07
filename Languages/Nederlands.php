@@ -435,6 +435,7 @@ $lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat opnieuw geladen!';
 $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chatlijst leeggemaakt!';
 $lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog verwijderd!';
 $lang['SUCCESS_NOTIF_HELPOP_1'] = 'Hulpverzoek verwijderd!';
+$lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets vernieuwd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 

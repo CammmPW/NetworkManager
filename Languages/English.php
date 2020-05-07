@@ -446,6 +446,7 @@ $lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat List Reloaded!';
 $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chat List Emptied!';
 $lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog Deleted!';
 $lang['SUCCESS_NOTIF_HELPOP_1'] = 'Help Request Deleted!';
+$lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets Refreshed!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
