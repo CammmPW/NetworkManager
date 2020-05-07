@@ -452,7 +452,7 @@ $lang['SUCCESS_NOTIF_HELPOP_1'] = 'Help Request Deleted!';
 $lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets Refreshed!';
 $lang['SUCCESS_NOTIF_TICKET_1'] = 'Ticket assigned to';
 $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticket priority set to';
-$lang['SUCCESS_NOTIF_TICKET_3'] = 'has been closed!'
+$lang['SUCCESS_NOTIF_TICKET_3'] = 'has been closed!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
