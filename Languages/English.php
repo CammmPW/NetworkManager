@@ -466,6 +466,9 @@ $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticket priority set to';
 $lang['SUCCESS_NOTIF_TICKET_3'] = 'has been closed!';
 $lang['SUCCESS_NOTIF_SETTINGS_1'] = 'Restart the proxy for all changes to take effect!';
 $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
+$lang['SUCCESS_NOTIF_LANG_1'] = 'Language key';
+$lang['SUCCESS_NOTIF_LANG_2'] = 'has been updated!';
+$lang['SUCCESS_NOTIF_LANG_3'] = 'Language Deleted!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';

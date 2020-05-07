@@ -455,6 +455,9 @@ $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticketprioriteit ingesteld op';
 $lang['SUCCESS_NOTIF_TICKET_3'] = 'is gesloten!';
 $lang['SUCCESS_NOTIF_SETTINGS_1'] = 'Start de proxy opnieuw om alle wijzigingen door te voeren!';
 $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
+$lang['SUCCESS_NOTIF_LANG_1'] = 'Taalsleutel';
+$lang['SUCCESS_NOTIF_LANG_2'] = 'is geupdate!';
+$lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
