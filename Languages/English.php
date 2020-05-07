@@ -450,3 +450,9 @@ $lang['SWAL_AREYOUSURE'] = 'Are You Sure?';
 $lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'It will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_CHANGES'] = 'These changes will be lost forever (A long time!)';
 $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
+
+$lang['CHAT_TYPE_1'] = 'Chat';
+$lang['CHAT_TYPE_2'] = 'Private Message';
+$lang['CHAT_TYPE_3'] = 'Party Chat'
+$lang['CHAT_TYPE_4'] = 'Staff Chat';
+$lang['CHAT_TYPE_5'] = 'Admin Chat';
