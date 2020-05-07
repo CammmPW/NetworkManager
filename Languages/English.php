@@ -119,6 +119,7 @@ $lang['PUNISHMENTS_PUNISHMENT'] = 'Punishment';
 $lang['PUNISHMENTS_ID'] = 'ID';
 $lang['PUNISHMENTS_TYPE'] = 'Type';
 $lang['PUNISHMENTS_PUNISHED'] = 'Punished';
+$lang['PUNISHMENTS_SERVER'] = 'Server';
 $lang['PUNISHMENTS_PUNISHER'] = 'Punisher';
 $lang['PUNISHMENTS_TIME'] = 'Time';
 $lang['PUNISHMENTS_END'] = 'End';

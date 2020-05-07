@@ -115,6 +115,7 @@ $lang['PLAYER_REAL_ID'] = 'Echte identiteit';
 $lang['PUNISHMENTS_PUNISHMENT'] = 'Straf';
 $lang['PUNISHMENTS_TYPE'] = 'Type';
 $lang['PUNISHMENTS_PUNISHED'] = 'Punished';
+$lang['PUNISHMENTS_SERVER'] = 'Server';
 $lang['PUNISHMENTS_PUNISHER'] = 'Straffer';
 $lang['PUNISHMENTS_TIME'] = 'Tijd';
 $lang['PUNISHMENTS_END'] = 'Eindigd';
