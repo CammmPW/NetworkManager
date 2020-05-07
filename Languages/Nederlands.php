@@ -281,6 +281,7 @@ $lang['VAR_TRUE'] = 'Ja';
 $lang['VAR_FALSE'] = 'Nee';
 $lang['VAR_NEVER'] = 'Nooit';
 $lang['VAR_IP'] = 'IP';
+$lang['VAR_ISSUED'] = 'Uitgegeven';
 
 $lang['TEXT_NORESULTS'] = 'Er kunnen geen resultaten worden weergegeven';
 $lang['TEXT_NORESULTS_SEARCH'] = 'Geen resultaten gevonden voor';
