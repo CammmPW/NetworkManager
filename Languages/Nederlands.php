@@ -33,8 +33,8 @@ $lang['TITLE_TABCOMPLETECOMMANDS'] = 'TabCompleetCommando\'s';
 
 $lang['TITLE_GROUPSANDACCOUNTS'] = 'Groepen & Accounts';
 
-$lang['TITLE_TASKS'] = 'Taken';
-$lang['TITLE_ACCOUNTSETTINGS'] = 'Settings';
+$lang['TITLE_TASKS'] = 'Kennisgevingen';
+$lang['TITLE_ACCOUNTSETTINGS'] = 'Instellingen';
 $lang['TITLE_LOGOUT'] = 'Log Uit';
 
 $lang['TITLE_DASHBOARD'] = 'Dashboard';

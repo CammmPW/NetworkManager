@@ -32,8 +32,8 @@ $lang['TITLE_TABCOMPLETECOMMANDS'] = 'TabCompleteCommands';
 
 $lang['TITLE_GROUPSANDACCOUNTS'] = 'Groups & Accounts';
 
-$lang['TITLE_TASKS'] = 'Tasks';
-$lang['TITLE_ACCOUNTSETTINGS'] = 'Account Settings';
+$lang['TITLE_TASKS'] = 'Notifications';
+$lang['TITLE_ACCOUNTSETTINGS'] = 'Settings';
 $lang['TITLE_LOGOUT'] = 'Log Out';
 
 $lang['TITLE_DASHBOARD'] = 'Dashboard';
