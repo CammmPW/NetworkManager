@@ -417,3 +417,5 @@ $lang['VAR_STATUS_ONLINE'] = 'Online';
 $lang['VAR_STATUS_OFFLINE'] = 'Offline';
 $lang['VAR_STATUS'] = 'Status';
 $lang['VAR_EXPIRED'] = 'Verlopen';
+
+$lang['ERROR_NOTIF_PUNISHMENT_1'] = 'Fout! Je kunt jezelf niet straffen!';
