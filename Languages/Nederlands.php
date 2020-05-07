@@ -434,6 +434,7 @@ $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Straf verwijderd!';
 $lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat opnieuw geladen!';
 $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chatlijst leeggemaakt!';
 $lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog verwijderd!';
+$lang['SUCCESS_NOTIF_HELPOP_1'] = 'Hulpverzoek verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
@@ -441,6 +442,7 @@ $lang['SWAL_AREYOUSURE'] = 'Weet Je Het Zeker?';
 $lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'Het zal voor altijd verloren gaan (Een lange tijd!)';
 $lang['SWAL_LOSTFOREVER_CHANGES'] = 'Deze wijzigingen gaan voor altijd verloren (lang!)';
 $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'Deze chat log zal verloren gaan voor altijd (Een hele lange tijd!)';
+$lang['SWAL_LOSTFOREVER_HELPOP'] = 'Dit hulpverzoek gaat voor altijd verloren (lang!)';
 $lang['SWAL_LOOSEONNET'] = 'Weet je zeker dat je deze speler weer wilt toelaten tot het netwerk?';
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Privé Bericht';

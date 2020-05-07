@@ -445,6 +445,8 @@ $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Punishment Removed!';
 $lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat List Reloaded!';
 $lang['SUCCESS_NOTIF_CHAT_2'] = 'Chat List Emptied!';
 $lang['SUCCESS_NOTIF_CHATLOG_1'] = 'Chatlog Deleted!';
+$lang['SUCCESS_NOTIF_HELPOP_1'] = 'Help Request Deleted!';
+
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
 
@@ -452,6 +454,7 @@ $lang['SWAL_AREYOUSURE'] = 'Are You Sure?';
 $lang['SWAL_LOSTFOREVER_PUNISHMENTS'] = 'It will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_CHANGES'] = 'These changes will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'This chat log will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_HELPOP'] = 'This Help Request will be lost forever (A long time!)';
 $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
