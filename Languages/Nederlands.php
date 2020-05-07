@@ -453,7 +453,7 @@ $lang['SUCCESS_NOTIF_TICKETS_1'] = 'Tickets vernieuwd!';
 $lang['SUCCESS_NOTIF_TICKET_1'] = 'Ticket toegewezen aan';
 $lang['SUCCESS_NOTIF_TICKET_2'] = 'Ticketprioriteit ingesteld op';
 $lang['SUCCESS_NOTIF_TICKET_3'] = 'is gesloten!';
-$lang['SUCCESS_NOTIF_SETTINGS_1']  'Start de proxy opnieuw om alle wijzigingen door te voeren!';
+$lang['SUCCESS_NOTIF_SETTINGS_1'] = 'Start de proxy opnieuw om alle wijzigingen door te voeren!';
 $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
