@@ -456,3 +456,4 @@ $lang['CHAT_TYPE_2'] = 'Private Message';
 $lang['CHAT_TYPE_3'] = 'Party Chat';
 $lang['CHAT_TYPE_4'] = 'Staff Chat';
 $lang['CHAT_TYPE_5'] = 'Admin Chat';
+$lang['CHAT_TYPE_6'] = 'Unknown';
