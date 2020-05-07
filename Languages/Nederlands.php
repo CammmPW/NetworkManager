@@ -430,6 +430,8 @@ $lang['ERROR_NOTIF_PUNISHMENT_2'] = 'Onbekende UUID!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Straf Toegevoegd!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Straf Ingetrokken!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Straf verwijderd!';
+$lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat opnieuw geladen!';
+$lang['SUCCESS_NOTIF_CHAT_2'] = 'Chatlijst leeggemaakt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 

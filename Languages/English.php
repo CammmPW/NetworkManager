@@ -441,6 +441,8 @@ $lang['ERROR_NOTIF_PUNISHMENT_2'] = 'Unknown UUID!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_1'] = 'Punishment Added!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_2'] = 'Punishment Revoked!';
 $lang['SUCCESS_NOTIF_PUNISHMENT_3'] = 'Punishment Removed!';
+$lang['SUCCESS_NOTIF_CHAT_1'] = 'Chat List Reloaded!';
+$lang['SUCCESS_NOTIF_CHAT_2'] = 'Chat List Emptied!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
 
