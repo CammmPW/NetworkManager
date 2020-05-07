@@ -183,6 +183,7 @@ $lang['MOTD_MOTDGENERATOR'] = 'MOTD Generator';
 $lang['MOTD_KICKMSG'] = 'Kick Bericht';
 $lang['MOTD_PREVIEW'] = 'Voorbeeld';
 $lang['MOTD_MAINTENANCEMODE'] = 'Onderhoudsstand';
+$lang['MOTD_CUSTOMVERSION'] = 'Aangepaste versie';
 
 $lang['PERMISSIONS_GROUP_NAME'] = 'Naam';
 $lang['PERMISSIONS_GROUP_LADDER'] = 'Ladder';
