@@ -290,6 +290,7 @@ $lang['VAR_NEVER'] = 'Never';
 $lang['VAR_IP'] = 'IP';
 $lang['VAR_DURATION'] = 'Duration';
 $lang['VAR_ISSUED'] = 'Issued';
+$lang['VAR_CONFIRM'] = 'Confirm';
 
 $lang['TEXT_NORESULTS'] = 'No results could be displayed';
 $lang['TEXT_NORESULTS_SEARCH'] = 'No results found for';
