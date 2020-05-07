@@ -162,6 +162,8 @@ $lang['TICKET_PRIORITY_LOW'] = 'Low';
 $lang['TICKET_PRIORITY_MEDIUM'] = 'Medium';
 $lang['TICKET_PRIORITY_HIGH'] = 'High';
 $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'No Priority';
+$lang['TICKET_ASKEDON'] = 'Asked on';
+$lang['TICKET_REPLIEDON'] = 'Replied on';
 
 $lang['SETTINGS_SEARCH'] = 'Search plugin settings by variable';
 

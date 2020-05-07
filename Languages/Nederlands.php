@@ -160,6 +160,8 @@ $lang['TICKET_PRIORITY_LOW'] = 'Laag';
 $lang['TICKET_PRIORITY_MEDIUM'] = 'Normaal';
 $lang['TICKET_PRIORITY_HIGH'] = 'Hoog';
 $lang['TICKET_PRIORITY_NO_PRIORITY'] = 'Geen Prioriteit';
+$lang['TICKET_ASKEDON'] = 'Gevraagd';
+$lang['TICKET_REPLIEDON'] = 'Beantwoord op';
 
 $lang['SETTINGS_SEARCH'] = 'Zoek instellingen d.m.v. variable';
 
