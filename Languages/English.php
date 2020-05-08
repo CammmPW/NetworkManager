@@ -187,6 +187,7 @@ $lang['MOTD_KICKMSG'] = 'Kick Message';
 $lang['MOTD_PREVIEW'] = 'Preview';
 $lang['MOTD_MAINTENANCEMODE'] = 'Maintenance Mode';
 $lang['MOTD_CUSTOMVERSION'] = 'Custom Version';
+$lang['MOTD_PROTIP'] = 'Pro Tip! Use %newline% to start a new line on both the hover and MOTD messages!';
 
 $lang['PERMISSIONS_GROUP_NAME'] = 'Name';
 $lang['PERMISSIONS_GROUP_LADDER'] = 'Ladder';
