@@ -465,6 +465,8 @@ $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 $lang['SUCCESS_NOTIF_LANG_1'] = 'Taalsleutel';
 $lang['SUCCESS_NOTIF_LANG_2'] = 'is geüpdatet!';
 $lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
+$lang['SUCCESS_NOTIF_MOTD_1'] = 'Nieuwe MOTD gegenereerd!';
+$lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
