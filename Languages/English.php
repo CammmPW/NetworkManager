@@ -306,6 +306,7 @@ $lang['VAR_DURATION'] = 'Duration';
 $lang['VAR_ISSUED'] = 'Issued';
 $lang['VAR_CONFIRM'] = 'Confirm';
 $lang['VAR_RELOAD'] = 'Reload!';
+$lang['VAR_BETAMSG'] = 'Welcome to Webbie 3.0! Beware, this is still in beta and NOT to be used on production servers!';
 
 $lang['TEXT_NORESULTS'] = 'No results could be displayed';
 $lang['TEXT_NORESULTS_SEARCH'] = 'No results found for';
@@ -491,3 +492,4 @@ $lang['CHAT_TYPE_3'] = 'Party Chat';
 $lang['CHAT_TYPE_4'] = 'Staff Chat';
 $lang['CHAT_TYPE_5'] = 'Admin Chat';
 $lang['CHAT_TYPE_6'] = 'Unknown';
+

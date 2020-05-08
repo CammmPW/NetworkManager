@@ -297,6 +297,7 @@ $lang['VAR_IP'] = 'IP';
 $lang['VAR_ISSUED'] = 'Uitgegeven';
 $lang['VAR_CONFIRM'] = 'Bevestigen';
 $lang['VAR_RELOAD'] = 'Herladen!';
+$lang['VAR_BETAMSG'] = 'Welkom bij Webbie 3.0! Pas op, dit is nog steeds in bèta en mag NIET worden gebruikt op productieservers!';
 
 $lang['TEXT_NORESULTS'] = 'Er kunnen geen resultaten worden weergegeven';
 $lang['TEXT_NORESULTS_SEARCH'] = 'Geen resultaten gevonden voor';
