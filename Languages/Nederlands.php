@@ -185,6 +185,8 @@ $lang['MOTD_PREVIEW'] = 'Voorbeeld';
 $lang['MOTD_MAINTENANCEMODE'] = 'Onderhoudsstand';
 $lang['MOTD_CUSTOMVERSION'] = 'Aangepaste versie';
 $lang['MOTD_PROTIP'] = 'Pro-tip! Gebruik %newline% om een nieuwe regel te starten voor zowel de hover- als MOTD-berichten!';
+$lang['MOTD_NEW'] = 'Maak een nieuwe MOTD';
+$lang['MOTD_DELETE'] = 'Verwijderen';
 
 $lang['PERMISSIONS_GROUP_NAME'] = 'Naam';
 $lang['PERMISSIONS_GROUP_LADDER'] = 'Ladder';
