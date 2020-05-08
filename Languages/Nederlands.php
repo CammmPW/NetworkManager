@@ -208,6 +208,7 @@ $lang['PERMISSIONS_GROUP_SEARCH'] = 'Zoek Group d.m.v. ID of Naam';
 $lang['PERMISSIONS_PLAYER_SEARCH'] = 'Zoek Speler d.m.v. Naam, Voorvoegsel or Achtervoegsel';
 
 $lang['PERMISSIONS_NEW_GROUP_TITLE'] = 'Maak een nieuwe groep';
+$lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Ouders';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
