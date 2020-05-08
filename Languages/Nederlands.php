@@ -469,6 +469,7 @@ $lang['SUCCESS_NOTIF_LANG_2'] = 'is geüpdatet!';
 $lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'Nieuwe MOTD gegenereerd!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
+$lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 

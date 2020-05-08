@@ -481,6 +481,7 @@ $lang['SUCCESS_NOTIF_LANG_2'] = 'has been updated!';
 $lang['SUCCESS_NOTIF_LANG_3'] = 'Language Deleted!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
+$lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
