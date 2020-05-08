@@ -482,6 +482,7 @@ $lang['SUCCESS_NOTIF_LANG_3'] = 'Language Deleted!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
@@ -493,6 +494,7 @@ $lang['SWAL_LOSTFOREVER_CHANGES'] = 'These changes will be lost forever (A long 
 $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'This chat log will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_HELPOP'] = 'This Help Request will be lost forever (A long time!)';
 $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
+$lang['SWAL_LOSTFOREVER_PERMS_1'] = 'This permission group will be lost forever (A long time!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';

@@ -470,6 +470,7 @@ $lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'Nieuwe MOTD gegenereerd!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Groep verwijderd!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
@@ -480,6 +481,8 @@ $lang['SWAL_LOSTFOREVER_CHANGES'] = 'Deze wijzigingen gaan voor altijd verloren 
 $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'Deze chat log zal verloren gaan voor altijd (Een hele lange tijd!)';
 $lang['SWAL_LOSTFOREVER_HELPOP'] = 'Dit hulpverzoek gaat voor altijd verloren (lang!)';
 $lang['SWAL_LOOSEONNET'] = 'Weet je zeker dat je deze speler weer wilt toelaten tot het netwerk?';
+$lang['SWAL_LOSTFOREVER_PERMS_1'] = 'Deze toestemmingsgroep gaat voor altijd verloren (lang!)';
+
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Privé Bericht';
 $lang['CHAT_TYPE_3'] = 'Party Chat';
