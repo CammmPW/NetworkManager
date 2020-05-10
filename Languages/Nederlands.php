@@ -475,6 +475,7 @@ $lang['SUCCESS_NOTIF_MOTD_1'] = 'Nieuwe MOTD gegenereerd!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Groep verwijderd!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Groep bewerkt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 

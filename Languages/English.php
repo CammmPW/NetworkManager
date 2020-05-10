@@ -487,6 +487,7 @@ $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
