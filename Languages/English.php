@@ -214,6 +214,7 @@ $lang['PERMISSIONS_NEW_GROUP_TITLE'] = 'Create New Group';
 $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Parents';
 $lang['PERMISSIONS_PARENTS_GROUP'] = 'Group';
 $lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Parent Group';
+$lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Edit Group';
 
 $lang['SERVERS_PORT'] = 'Port';
 $lang['SERVERS_MOTD'] = 'Motd';

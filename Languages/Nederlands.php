@@ -211,6 +211,7 @@ $lang['PERMISSIONS_NEW_GROUP_TITLE'] = 'Maak een nieuwe groep';
 $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Ouders';
 $lang['PERMISSIONS_PARENTS_GROUP'] = 'Groep';
 $lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Bovenliggende groep';
+$lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Groep bewerken';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
