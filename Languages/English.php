@@ -212,6 +212,8 @@ $lang['PERMISSIONS_PLAYER_SEARCH'] = 'Search Player by Name, Prefix or Suffix';
 
 $lang['PERMISSIONS_NEW_GROUP_TITLE'] = 'Create New Group';
 $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Parents';
+$lang['PERMISSIONS_PARENTS_GROUP'] = 'Group';
+$lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Parent Group';
 
 $lang['SERVERS_PORT'] = 'Port';
 $lang['SERVERS_MOTD'] = 'Motd';
