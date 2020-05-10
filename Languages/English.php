@@ -491,8 +491,10 @@ $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
 $lang['SUCCESS_NOTIF_PERMS_2'] = 'Permission Added!';
+$lang['SUCCESS_NOTIF_PERMS_3'] = 'Parent Added!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Permission Deleted!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Parent Removed!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Permission Edited!';
 
@@ -508,6 +510,7 @@ $lang['SWAL_LOSTFOREVER_HELPOP'] = 'This Help Request will be lost forever (A lo
 $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
 $lang['SWAL_LOSTFOREVER_PERMS_1'] = 'This permission group will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_PERMS_2'] = 'This permission will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_PERMS_3'] = 'This parent will be lost forever (A long time!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';
