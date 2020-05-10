@@ -215,6 +215,7 @@ $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Parents';
 $lang['PERMISSIONS_PARENTS_GROUP'] = 'Group';
 $lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Parent Group';
 $lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Edit Group';
+$lang['PERMISSION_EDIT_PERM_TITLE'] = 'Edit Permission';
 
 $lang['SERVERS_PORT'] = 'Port';
 $lang['SERVERS_MOTD'] = 'Motd';
@@ -486,8 +487,11 @@ $lang['SUCCESS_NOTIF_LANG_3'] = 'Language Deleted!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
+$lang['SUCCESS_NOTIF_PERMS_2'] = 'Permission Added!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Permission Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Permission Edited!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';

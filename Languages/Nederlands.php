@@ -212,6 +212,7 @@ $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Ouders';
 $lang['PERMISSIONS_PARENTS_GROUP'] = 'Groep';
 $lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Bovenliggende groep';
 $lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Groep bewerken';
+$lang['PERMISSION_EDIT_PERM_TITLE'] = 'Toestemming bewerken';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
@@ -474,8 +475,11 @@ $lang['SUCCESS_NOTIF_LANG_3'] = 'Taal verwijderd!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'Nieuwe MOTD gegenereerd!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
+$lang['SUCCESS_NOTIF_PERMS_2'] = 'Toestemming toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Groep verwijderd!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Toestemming verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Groep bewerkt!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Toestemming bewerkt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
