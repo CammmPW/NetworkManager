@@ -216,6 +216,7 @@ $lang['PERMISSION_EDIT_PERM_TITLE'] = 'Toestemming bewerken';
 $lang['PERMISSION_ADD_PERM_TITLE'] = 'Toestemming toevoegen aan';
 $lang['PERMISSIONS_SERVER'] = 'Server';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Ouder toevoegen aan';
+$lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Voeg voorvoegsel toe aan';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
@@ -480,11 +481,14 @@ $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
 $lang['SUCCESS_NOTIF_PERMS_2'] = 'Toestemming toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_3'] = 'Ouder toegevoegd!';
+$lang['SUCCESS_NOTIF_PERMS_4'] = 'Voorvoegsel toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Groep verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Toestemming verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Ouder verwijderd!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_4'] = 'Voorvoegsel verwijderd!!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Groep bewerkt!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Toestemming bewerkt!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_3'] = 'Voorvoegsel bewerkt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
@@ -498,6 +502,8 @@ $lang['SWAL_LOOSEONNET'] = 'Weet je zeker dat je deze speler weer wilt toelaten 
 $lang['SWAL_LOSTFOREVER_PERMS_1'] = 'Deze toestemmingsgroep gaat voor altijd verloren (lang!)';
 $lang['SWAL_LOSTFOREVER_PERMS_2'] = 'Deze toestemming gaat voor altijd verloren (lang!)';
 $lang['SWAL_LOSTFOREVER_PERMS_3'] = 'Deze ouder zal voor altijd verloren zijn (een lange tijd!)';
+$lang['SWAL_LOSTFOREVER_PERMS_4'] = 'Dit voorvoegsel gaat voor altijd verloren (lang!)';
+$lang['SWAL_LOSTFOREVER_PERMS_5'] = 'Dit achtervoegsel gaat voor altijd verloren (lang!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Privé Bericht';

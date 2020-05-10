@@ -218,6 +218,7 @@ $lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Edit Group';
 $lang['PERMISSION_EDIT_PERM_TITLE'] = 'Edit Permission';
 $lang['PERMISSION_ADD_PERM_TITLE'] = 'Add Permission to';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Add parent to';
+$lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Add prefix to';
 $lang['PERMISSIONS_SERVER'] = 'Server';
 
 $lang['SERVERS_PORT'] = 'Port';
@@ -492,11 +493,14 @@ $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
 $lang['SUCCESS_NOTIF_PERMS_2'] = 'Permission Added!';
 $lang['SUCCESS_NOTIF_PERMS_3'] = 'Parent Added!';
+$lang['SUCCESS_NOTIF_PERMS_4'] = 'Prefix Added!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Permission Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Parent Removed!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_4'] = 'Prefix Removed!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Permission Edited!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_3'] = 'Prefix Edited!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
@@ -511,6 +515,8 @@ $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the net
 $lang['SWAL_LOSTFOREVER_PERMS_1'] = 'This permission group will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_PERMS_2'] = 'This permission will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_PERMS_3'] = 'This parent will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_PERMS_4'] = 'This prefix will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_PERMS_5'] = 'This suffix will be lost forever (A long time!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';
