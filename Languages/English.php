@@ -504,6 +504,7 @@ $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'This chat log will be lost forever (A long 
 $lang['SWAL_LOSTFOREVER_HELPOP'] = 'This Help Request will be lost forever (A long time!)';
 $lang['SWAL_LOOSEONNET'] = 'Do you really want to let this user loose on the network?';
 $lang['SWAL_LOSTFOREVER_PERMS_1'] = 'This permission group will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_PERMS_2'] = 'This permission will be lost forever (A long time!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';

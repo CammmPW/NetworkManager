@@ -491,6 +491,7 @@ $lang['SWAL_LOSTFOREVER_CHATLOG'] = 'Deze chat log zal verloren gaan voor altijd
 $lang['SWAL_LOSTFOREVER_HELPOP'] = 'Dit hulpverzoek gaat voor altijd verloren (lang!)';
 $lang['SWAL_LOOSEONNET'] = 'Weet je zeker dat je deze speler weer wilt toelaten tot het netwerk?';
 $lang['SWAL_LOSTFOREVER_PERMS_1'] = 'Deze toestemmingsgroep gaat voor altijd verloren (lang!)';
+$lang['SWAL_LOSTFOREVER_PERMS_2'] = 'Deze toestemming gaat voor altijd verloren (lang!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Privé Bericht';
