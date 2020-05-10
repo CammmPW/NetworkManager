@@ -214,6 +214,8 @@ $lang['PERMISSIONS_PARENTS_PARENTGROUP'] = 'Bovenliggende groep';
 $lang['PERMISSIONS_EDIT_GROUP_TITLE'] = 'Groep bewerken';
 $lang['PERMISSION_EDIT_PERM_TITLE'] = 'Toestemming bewerken';
 $lang['PERMISSION_ADD_PERM_TITLE'] = 'Toestemming toevoegen aan';
+$lang['PERMISSIONS_SERVER'] = 'Server';
+$lang['PERMISSION_ADD_PARENT_TITLE'] = 'Ouder toevoegen aan';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
