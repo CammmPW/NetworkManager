@@ -217,6 +217,7 @@ $lang['PERMISSION_ADD_PERM_TITLE'] = 'Toestemming toevoegen aan';
 $lang['PERMISSIONS_SERVER'] = 'Server';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Ouder toevoegen aan';
 $lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Voeg voorvoegsel toe aan';
+$lang['PERMISSION_EDIT_PREFIX_TITLE'] = 'Voorvoegsel bewerken';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
