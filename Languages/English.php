@@ -220,6 +220,8 @@ $lang['PERMISSION_ADD_PERM_TITLE'] = 'Add Permission to';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Add parent to';
 $lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Add prefix to';
 $lang['PERMISSION_EDIT_PREFIX_TITLE'] = 'Edit Prefix';
+$lang['PERMISSION_ADD_SUFFIX_TITLE'] = 'Add suffix to';
+$lang['PERMISSION_EDIT_SUFFIX_TITLE'] = 'Edit Suffix';
 $lang['PERMISSIONS_SERVER'] = 'Server';
 
 $lang['SERVERS_PORT'] = 'Port';
@@ -495,13 +497,16 @@ $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
 $lang['SUCCESS_NOTIF_PERMS_2'] = 'Permission Added!';
 $lang['SUCCESS_NOTIF_PERMS_3'] = 'Parent Added!';
 $lang['SUCCESS_NOTIF_PERMS_4'] = 'Prefix Added!';
+$lang['SUCCESS_NOTIF_PERMS_5'] = 'Suffix Added!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Permission Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Parent Removed!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_4'] = 'Prefix Removed!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_5'] = 'Suffix Removed!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Permission Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_3'] = 'Prefix Edited!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_4'] = 'Suffix Edited!';
 
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';

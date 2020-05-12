@@ -218,6 +218,8 @@ $lang['PERMISSIONS_SERVER'] = 'Server';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Ouder toevoegen aan';
 $lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Voeg voorvoegsel toe aan';
 $lang['PERMISSION_EDIT_PREFIX_TITLE'] = 'Voorvoegsel bewerken';
+$lang['PERMISSION_ADD_SUFFIX_TITLE'] = 'Achtervoegsel toevoegen aan';
+$lang['PERMISSION_EDIT_SUFFIX_TITLE'] = 'Achtervoegsel bewerken';
 
 $lang['SERVERS_PORT'] = 'Poort';
 $lang['SERVERS_MOTD'] = 'Motd';
@@ -483,13 +485,16 @@ $lang['SUCCESS_NOTIF_PERMS_1'] = 'Groep gemaakt!';
 $lang['SUCCESS_NOTIF_PERMS_2'] = 'Toestemming toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_3'] = 'Ouder toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_4'] = 'Voorvoegsel toegevoegd!';
+$lang['SUCCESS_NOTIF_PERMS_5'] = 'Achtervoegsel toegevoegd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Groep verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Toestemming verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Ouder verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_4'] = 'Voorvoegsel verwijderd!!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_5'] = 'Achtervoegsel verwijderd!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Groep bewerkt!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Toestemming bewerkt!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_3'] = 'Voorvoegsel bewerkt!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_4'] = 'Achtervoegsel bewerkt!';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Maak Nieuwe Straf';
 
