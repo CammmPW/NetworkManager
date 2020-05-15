@@ -491,6 +491,7 @@ $lang['SUCCESS_NOTIF_SETTINGS_2'] = 'Language Changed!';
 $lang['SUCCESS_NOTIF_LANG_1'] = 'Language key';
 $lang['SUCCESS_NOTIF_LANG_2'] = 'has been updated!';
 $lang['SUCCESS_NOTIF_LANG_3'] = 'Language Deleted!';
+$lang['SUCCESS_NOTIF_LANG_4'] = 'Language Created!';
 $lang['SUCCESS_NOTIF_MOTD_1'] = 'New MOTD Generated!';
 $lang['SUCCESS_NOTIF_MOTD_2'] = 'MOTD Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_1'] = 'Group Created!';
