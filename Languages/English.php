@@ -5,7 +5,7 @@ $lang['LANGUAGE'] = 'English';
 $lang['THEME'] = 'Default';
 $lang['AUTHOR'] = 'ChimpGamer & Cam';
 
-$lang['PANEL_TITLE'] = 'EN Backend';
+$lang['PANEL_TITLE'] = 'NetworkManager';
 
 $lang['TITLE_OVERVIEW'] = 'Overview';
 $lang['TITLE_ANALYTICS'] = 'Analytics';
@@ -115,6 +115,8 @@ $lang['PLAYER_PREMIUM'] = 'Premium';
 $lang['PLAYER_PROFILE'] = 'Player Profile';
 $lang['PLAYER_REAL_ID'] = 'Real Identity';
 
+$lang['PREPUNISHMENT_CREATE'] = 'Create Punishment Template';
+
 $lang['PUNISHMENTS_PUNISHMENT'] = 'Punishment';
 $lang['PUNISHMENTS_ID'] = 'ID';
 $lang['PUNISHMENTS_TYPE'] = 'Type';
@@ -122,6 +124,7 @@ $lang['PUNISHMENTS_PUNISHED'] = 'Player to Punish';
 $lang['PUNISHMENTS_SERVER'] = 'Server';
 $lang['PUNISHMENTS_PUNISHER'] = 'Punisher';
 $lang['PUNISHMENTS_TIME'] = 'Time';
+$lang['PUNISHMENTS_DURATION'] = 'Duration';
 $lang['PUNISHMENTS_END'] = 'End';
 $lang['PUNISHMENTS_SILENT'] = 'Silent';
 $lang['PUNISHMENTS_STATUS'] = 'Status';
@@ -210,6 +213,9 @@ $lang['PERMISSIONS_GROUP_MEMBER_LIST'] = 'List Members';
 $lang['PERMISSIONS_GROUP_SEARCH'] = 'Search Group by ID or Name';
 $lang['PERMISSIONS_PLAYER_SEARCH'] = 'Search Player by Name, Prefix or Suffix';
 
+$lang['PERMISSIONS_USER_GROUPS'] = 'Groups';
+$lang['PERMISSIONS_USER_GROUP_NAME'] = 'Group Name';
+
 $lang['PERMISSIONS_NEW_GROUP_TITLE'] = 'Create New Group';
 $lang['PERMISSIONS_GROUP_PARENT_LIST'] = 'Parents';
 $lang['PERMISSIONS_PARENTS_GROUP'] = 'Group';
@@ -219,6 +225,7 @@ $lang['PERMISSION_EDIT_PERM_TITLE'] = 'Edit Permission';
 $lang['PERMISSION_ADD_PERM_TITLE'] = 'Add Permission to';
 $lang['PERMISSION_ADD_PARENT_TITLE'] = 'Add parent to';
 $lang['PERMISSION_ADD_PREFIX_TITLE'] = 'Add prefix to';
+$lang['PERMISSION_ADD_MEMBER_GROUP'] = 'Add member to';
 $lang['PERMISSION_EDIT_PREFIX_TITLE'] = 'Edit Prefix';
 $lang['PERMISSION_ADD_SUFFIX_TITLE'] = 'Add suffix to';
 $lang['PERMISSION_EDIT_SUFFIX_TITLE'] = 'Edit Suffix';
@@ -230,16 +237,36 @@ $lang['SERVERS_RESTRICTED'] = 'Restricted';
 $lang['SERVERS_ISLOBBY'] = 'isLobby';
 $lang['SERVERS_ONLINE'] = 'Online';
 $lang['SERVERS_ADD_SERVER'] = 'Add Server';
+$lang['SERVERS_SERVERNAME'] = 'Server Name';
+$lang['SERVERS_ALLOWEDVERSIONS'] = 'Allowed Versions';
+$lang['SERVERS_GROUPS'] = 'Server Groups';
+$lang['SERVERS_GROUPS_NAME'] = 'Group Name';
+$lang['SERVERS_GROUPS_SERVERS'] = 'Servers';
+$lang['SERVERS_GROUPS_CREATE'] = 'Create Server Group';
+$lang['SERVER_GROUPS_SERVER_IDS'] = 'Server IDs';
+$lang['SERVER_GROUPS_SERVER_GROUP'] = 'Server Group';
 
 $lang['TAGS_TAG_NAME'] = 'Name';
 $lang['TAGS_TAG_TAG'] = 'Tag';
 $lang['TAGS_TAG_DESCRIPTION'] = 'Description';
 $lang['TAGS_TAG_CREATE'] = 'Create Tag';
 $lang['TAGS_SEARCH'] = 'Search Tag by ID, Name or Tag';
+$lang['TAGS_TAG_ID'] = 'Tag ID';
+$lang['TAGS_TAG_NAME'] = 'Tag Name';
+$lang['TAGS_TAG_TAG_FORMATTING'] = 'Tag with Formatting Applied';
+$lang['TAGS_TAG_DESCRIPTION_FORMATTING'] = 'Tag Description with Formatting Applied';
+$lang['TAGS_TAG_SERVERS'] = 'Servers the Tag is Active On';
 
 $lang['FILTER_ADDWORD'] = 'Add word';
+$lang['FILTER_ADDWORD_TOOLTIP'] = 'Press Enter to Add The Word!';
+$lang['FILTER_WORDTOFILTER'] = 'Word To Filter';
+$lang['FILTER_FILTEREDRESULT'] = 'Replacement Word';
 
 $lang['COMMANDBLOCKER_ADDCOMMAND'] = 'Add command';
+$lang['COMMANDBLOCKER_ADDCOMMAND_TOOLTIP'] = 'Press Enter to Submit!';
+$lang['COMMANDBLOCKER_PERMBYPASS'] = 'Permission Bypass';
+$lang['COMMANDBLOCKER_COMMAND_BLOCKED'] = 'Command to be Blocked';
+$lang['COMMANDBLOCKER_COMMAND_SERVER'] = 'Server for the block to be applied to';
 
 $lang['ANNOUNCEMENTS_TYPE'] = 'Type';
 $lang['ANNOUNCEMENTS_MESSAGE'] = 'Message';
@@ -247,9 +274,14 @@ $lang['ANNOUNCEMENTS_SOUND'] = 'Sound';
 $lang['ANNOUNCEMENTS_CREATE_ANNOUNCEMENT'] = 'Create Announcement';
 
 $lang['TABCOMPLETECOMMANDS_ADDCOMMAND'] = 'Add command';
+$lang['TABCOMPLETECOMMANDS_ADDCOMMAND_TOOLTIP'] = 'Press enter to submit!';
 
 $lang['GROUPANDACCOUNTS_GROUP'] = 'Group';
 $lang['GROUPANDACCOUNTS_USER'] = 'User';
+$lang['GROUPSANDACCOUNTS_NEW_USER'] = 'Create User';
+$lang['GROUPSANDACCOUNTS_NEW_USER_NAME'] = 'Account Name';
+$lang['GROUPSANDACCOUNTS_NEW_GROUP_NAME'] = 'Group Name';
+$lang['GROUPSANDACCOUNTS_NEW_GROUP_ALLPERMS'] = 'Select All Permissions';
 
 $lang['TASKS_YOURTASKS'] = 'Your Tasks';
 
@@ -324,6 +356,8 @@ $lang['VAR_ISSUED'] = 'Issued';
 $lang['VAR_CONFIRM'] = 'Confirm';
 $lang['VAR_RELOAD'] = 'Reload!';
 $lang['VAR_BETAMSG'] = 'Welcome to Webbie 3.0! Beware, this is still in beta and NOT to be used on production servers!';
+$lang['VAR_SOUND'] = 'Sound';
+$lang['VAR_PERMISSION'] = 'Permission';
 
 $lang['TEXT_NORESULTS'] = 'No results could be displayed';
 $lang['TEXT_NORESULTS_SEARCH'] = 'No results found for';
@@ -499,18 +533,96 @@ $lang['SUCCESS_NOTIF_PERMS_2'] = 'Permission Added!';
 $lang['SUCCESS_NOTIF_PERMS_3'] = 'Parent Added!';
 $lang['SUCCESS_NOTIF_PERMS_4'] = 'Prefix Added!';
 $lang['SUCCESS_NOTIF_PERMS_5'] = 'Suffix Added!';
+$lang['SUCCESS_NOTIF_PERMS_6'] = 'Member Added!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_1'] = 'Group Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_2'] = 'Permission Deleted!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_3'] = 'Parent Removed!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_4'] = 'Prefix Removed!';
 $lang['SUCCESS_NOTIF_PERMS_DEL_5'] = 'Suffix Removed!';
+$lang['SUCCESS_NOTIF_PERMS_DEL_6'] = 'Member Removed!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_1'] = 'Group Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_2'] = 'Permission Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_3'] = 'Prefix Edited!';
 $lang['SUCCESS_NOTIF_PERMS_EDIT_4'] = 'Suffix Edited!';
+$lang['SUCCESS_NOTIF_PERMS_EDIT_5'] = 'Member Edited!';
 
+$lang['SUCCESS_NOTIF_PREPERMS_DEL_1'] = 'Template Deleted!';
+$lang['SUCCESS_NOTIF_PREPERMS_1'] = 'Template Added!';
+$lang['SWAL_LOSTFOREVER_PREPERMS_1'] = 'This punishment template will be lost forever (A long time!)';
+$lang['ERROR_NOTIF_PREPERMS_1'] = 'Invalid Duration!';
+
+$lang['SUCCESS_NOTIF_SERVERMANAGER_1'] = 'Restricted Mode Updated!';
+$lang['SUCCESS_NOTIF_SERVERMANAGER_2'] = 'Server Added!';
+$lang['SUCCESS_NOTIF_SERVERMANAGER_DEL_1'] = 'Server Deleted!';
+$lang['SUCCESS_NOTIF_SERVERMANAGER_GROUP_DEL_1'] = 'Server Group Deleted!';
+$lang['SUCCESS_NOTIF_SERVERMANAGER_EDIT_1'] = 'Server Edited!';
+$lang['SWAL_LOSTFOREVER_SERVERMANAGER_1'] = 'This server will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_SERVERMANAGER_GROUP_1'] = 'This server group will be lost forever (A long time!)';
+$lang['ERROR_NOTIF_SERVERMANAGER_1'] = 'Perhaps a server with that name already exists?';
+$lang['ERROR_NOTIF_SERVERMANAGER_2'] = 'Failed to insert server into database!';
+$lang['ERROR_NOTIF_SERVERMANAGER_GROUPS_1'] = 'Perhaps a servergroup with that name already exists?';
+$lang['SUCCESS_NOTIF_SERVERMANAGER_GROUPS_1'] = 'Server Group Created!';
+
+$lang['SUCCESS_NOTIF_TAGS_1'] = 'Tag Created!';
+$lang['SUCCESS_NOTIF_EDIT_TAGS_1'] = 'Tag Edited! Execute /tags reload!';
+$lang['SUCCESS_NOTIF_DEL_TAGS_1'] = 'Tag Deleted!';
+$lang['SWAL_LOSTFOREVER_TAGS_1'] = 'This tag will be lost forever (A long time!)';
+
+$lang['SUCCESS_NOTIF_FILTER_1'] = 'Filter Item Added!';
+$lang['SUCCESS_NOTIF_EDIT_FILTER_1'] = 'Filter Item Edited!';
+$lang['SUCCESS_NOTIF_DEL_FILTER_1'] = 'Filter Item Deleted!';
+$lang['SWAL_LOSTFOREVER_FILTER_1'] = 'This filter item will be lost forever (A long time!)';
+
+$lang['SUCCESS_NOTIF_CMDBLOCK_1'] = 'Filter Item Added!';
+$lang['SUCCESS_NOTIF_EDIT_CMDBLOCK_1'] = 'Filter Item Edited!';
+$lang['SUCCESS_NOTIF_DEL_CMDBLOCK_1'] = 'Filter Item Deleted!';
+$lang['SWAL_LOSTFOREVER_CMDBLOCK_1'] = 'This filter item will be lost forever (A long time!)';
+
+$lang['SUCCESS_NOTIF_ANNOUNCEMENTS_1'] = 'Announcement Added!';
+$lang['SUCCESS_NOTIF_EDIT_ANNOUNCEMENTS_1'] = 'Announcement Edited!';
+$lang['SUCCESS_NOTIF_EDIT_ANNOUNCEMENTS_2'] = 'Permission Updated!';
+$lang['SUCCESS_NOTIF_EDIT_ANNOUNCEMENTS_3'] = 'Active State Updated!';
+$lang['SUCCESS_NOTIF_DEL_ANNOUNCEEMENTS_1'] = 'Announcement Deleted!';
+$lang['SWAL_LOSTFOREVER_ANNOUNCEMENTS'] = 'This filter item will be lost forever (A long time!)';
+
+$lang['SUCCESS_NOTIF_TABCOMPLETE_1'] = 'Tab Complete Command Added!';
+$lang['SUCCESS_NOTIF_DEL_TABCOMPLETE_1'] = 'Tab Complete Command Deleted!';
+$lang['SWAL_LOSTFOREVER_TABCOMPLETE'] = 'This tab complete command will be lost forever (A long time!)';
+
+$lang['SUCCESS_NOTIF_ACCOUNTS_1'] = 'User Account Created!';
+$lang['SUCCESS_NOTIF_DEL_ACCOUNTS_1'] = 'User Account Deleted!';
+$lang['SUCCESS_NOTIF_ACCOUNTS_2'] = 'Group Created!';
+$lang['SUCCESS_NOTIF_DEL_ACCOUNTS_2'] = 'Group Deleted!';
+$lang['SUCCESS_NOTIF_ACCOUNTS_3'] = 'User Updated!';
+$lang['SUCCESS_NOTIF_EDIT_ACCOUNTS_1'] = 'Group Edited!';
+$lang['SWAL_LOSTFOREVER_ACCOUNTS_1'] = 'This group will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_ACCOUNTS_2'] = 'This account will be lost forever (A long time!)';
 
 $lang['PUNISHMENT_MODAL_TITLE'] = 'Issue New Punishment';
+$lang['PREPUNISHMENT_MODAL_TITLE'] = 'Create New Punishment Template';
+$lang['SERVERMANAGER_EDIT_MODAL_TITLE'] = 'Edit Server ID:';
+$lang['SERVERMANAGER_CREATE_MODAL_TITLE'] = 'Create Server';
+$lang['SERVERMANAGER_CREATE_GROUP_MODAL_TITLE'] = 'Create Server Group';
+$lang['SERVERMANAGER_ADD_MODAL_TITLE'] = 'Add Server to Group:';
+$lang['TAGS_CREATE_MODAL_TITLE'] = 'Create New Tag';
+$lang['TAGS_EDIT_MODAL_TITLE'] = 'Edit Tag ID:';
+
+$lang['ANNOUNCEMENTS_CREATE_MODAL_TITLE'] = 'Create new Announcement';
+$lang['ANNOUNCEMENTS_EDIT_MODAL_TITLE'] = 'Edit Announcement:';
+
+$lang['GROUPSANDACCOUNTS_CREATE_USER_MODAL_TITLE'] = 'Create New User Account';
+$lang['GROUPSANDACCOUNTS_CREATE_GROUP_MODAL_TITLE'] = 'Create New Group';
+$lang['GROUPSANDACCOUNTS_EDIT_GROUP_MODAL_TITLE'] = 'Edit Group';
+
+$lang['SETTINGS_PASSWORD_CHANGED'] = 'Password Changed!';
+$lang['SETTINGS_SCHEME_SAVED'] = 'Color Scheme Updated!';
+$lang['SETTINGS_PASSWORD_CHANGED'] = 'Password Changed!';
+$lang['SWAL_LOSTFOREVER_SETTINGS_1'] = 'Language Changed! Reload for Changes to be Applied!';
+$lang['SETTINGS_ERROR'] = 'An Unknown Error Occurred. Please Retry.';
+$lang['SETTINGS_ERROR_1'] = 'Could not download requested language file!';
+$lang['SETTINGS_ERROR_2'] = 'Could not write to language folder! Check the folder permissions!';
+$lang['SETTINGS_ERROR_3'] = 'Could not write to settings file! Check file permissions!';
+$lang['SETTINGS_ERROR_4'] = 'Current Password Incorrect!';
 
 $lang['SWAL_SUCCESS'] = 'Success!';
 $lang['SWAL_AREYOUSURE'] = 'Are You Sure?';
@@ -524,6 +636,7 @@ $lang['SWAL_LOSTFOREVER_PERMS_2'] = 'This permission will be lost forever (A lon
 $lang['SWAL_LOSTFOREVER_PERMS_3'] = 'This parent will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_PERMS_4'] = 'This prefix will be lost forever (A long time!)';
 $lang['SWAL_LOSTFOREVER_PERMS_5'] = 'This suffix will be lost forever (A long time!)';
+$lang['SWAL_LOSTFOREVER_PERMS_6'] = 'This member will be lost forever (A long time!)';
 
 $lang['CHAT_TYPE_1'] = 'Chat';
 $lang['CHAT_TYPE_2'] = 'Private Message';
@@ -531,4 +644,6 @@ $lang['CHAT_TYPE_3'] = 'Party Chat';
 $lang['CHAT_TYPE_4'] = 'Staff Chat';
 $lang['CHAT_TYPE_5'] = 'Admin Chat';
 $lang['CHAT_TYPE_6'] = 'Unknown';
+
+$lang['GROUPSANDACCOUNTS_DISCLAIMER'] = 'Notice! It may take a second or two for the pop up boxes to close on save! This is normal!';
 
